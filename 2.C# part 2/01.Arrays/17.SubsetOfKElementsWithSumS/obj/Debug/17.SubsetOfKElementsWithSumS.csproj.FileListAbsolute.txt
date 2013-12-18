@@ -1,0 +1,9 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.C# part 2\01.Arrays\17.SubsetOfKElementsWithSumS\bin\Debug\17.SubsetOfKElementsWithSumS.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.C# part 2\01.Arrays\17.SubsetOfKElementsWithSumS\bin\Debug\17.SubsetOfKElementsWithSumS.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.C# part 2\01.Arrays\17.SubsetOfKElementsWithSumS\bin\Debug\17.SubsetOfKElementsWithSumS.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.C# part 2\01.Arrays\17.SubsetOfKElementsWithSumS\obj\Debug\17.SubsetOfKElementsWithSumS.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.C# part 2\01.Arrays\17.SubsetOfKElementsWithSumS\obj\Debug\17.SubsetOfKElementsWithSumS.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.C# part 2\01.Arrays\17.SubsetOfKElementsWithSumS\obj\Debug\17.SubsetOfKElementsWithSumS.pdb
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\01.Arrays\17.SubsetOfKElementsWithSumS\bin\Debug\17.SubsetOfKElementsWithSumS.exe.config
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\01.Arrays\17.SubsetOfKElementsWithSumS\obj\Debug\17.SubsetOfKElementsWithSumS.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\01.Arrays\17.SubsetOfKElementsWithSumS\obj\Debug\17.SubsetOfKElementsWithSumS.pdb

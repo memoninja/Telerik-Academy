@@ -1,0 +1,9 @@
+C:\Users\Todor\documents\visual studio 2013\Projects\02.MultidimensionalArrays\03.LongestSequenceOfEqualStrings\bin\Debug\03.LongestSequenceOfEqualStrings.exe.config
+C:\Users\Todor\documents\visual studio 2013\Projects\02.MultidimensionalArrays\03.LongestSequenceOfEqualStrings\bin\Debug\03.LongestSequenceOfEqualStrings.exe
+C:\Users\Todor\documents\visual studio 2013\Projects\02.MultidimensionalArrays\03.LongestSequenceOfEqualStrings\bin\Debug\03.LongestSequenceOfEqualStrings.pdb
+C:\Users\Todor\documents\visual studio 2013\Projects\02.MultidimensionalArrays\03.LongestSequenceOfEqualStrings\obj\Debug\03.LongestSequenceOfEqualStrings.csprojResolveAssemblyReference.cache
+C:\Users\Todor\documents\visual studio 2013\Projects\02.MultidimensionalArrays\03.LongestSequenceOfEqualStrings\obj\Debug\03.LongestSequenceOfEqualStrings.exe
+C:\Users\Todor\documents\visual studio 2013\Projects\02.MultidimensionalArrays\03.LongestSequenceOfEqualStrings\obj\Debug\03.LongestSequenceOfEqualStrings.pdb
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\02.MultidimensionalArrays\03.LongestSequenceOfEqualStrings\bin\Debug\03.LongestSequenceOfEqualStrings.exe.config
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\02.MultidimensionalArrays\03.LongestSequenceOfEqualStrings\obj\Debug\03.LongestSequenceOfEqualStrings.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\02.MultidimensionalArrays\03.LongestSequenceOfEqualStrings\obj\Debug\03.LongestSequenceOfEqualStrings.pdb

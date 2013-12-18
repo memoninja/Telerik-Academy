@@ -1,0 +1,12 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.C# part 2\01.Arrays\16.SubsetOfElementsEqualSum\bin\Debug\16.SubsetOfElementsEqualSum.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.C# part 2\01.Arrays\16.SubsetOfElementsEqualSum\bin\Debug\16.SubsetOfElementsEqualSum.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.C# part 2\01.Arrays\16.SubsetOfElementsEqualSum\bin\Debug\16.SubsetOfElementsEqualSum.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.C# part 2\01.Arrays\16.SubsetOfElementsEqualSum\obj\Debug\16.SubsetOfElementsEqualSum.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.C# part 2\01.Arrays\16.SubsetOfElementsEqualSum\obj\Debug\16.SubsetOfElementsEqualSum.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.C# part 2\01.Arrays\16.SubsetOfElementsEqualSum\obj\Debug\16.SubsetOfElementsEqualSum.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\01.Arrays\16.SubsetOfElementsEqualSum\bin\Debug\16.SubsetOfElementsEqualSum.exe.config
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\01.Arrays\16.SubsetOfElementsEqualSum\obj\Debug\16.SubsetOfElementsEqualSum.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\01.Arrays\16.SubsetOfElementsEqualSum\obj\Debug\16.SubsetOfElementsEqualSum.pdb
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\01.Arrays\16.SubsetOfElementsEqualSum\bin\Debug\16.SubsetOfElementsEqualSum.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\01.Arrays\16.SubsetOfElementsEqualSum\bin\Debug\16.SubsetOfElementsEqualSum.pdb
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\01.Arrays\16.SubsetOfElementsEqualSum\obj\Debug\16.SubsetOfElementsEqualSum.csprojResolveAssemblyReference.cache

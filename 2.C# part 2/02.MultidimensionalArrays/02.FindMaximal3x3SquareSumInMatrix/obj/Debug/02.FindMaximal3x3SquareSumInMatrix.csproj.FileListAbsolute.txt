@@ -1,0 +1,6 @@
+C:\Users\Todor\documents\visual studio 2013\Projects\02.MultidimensionalArrays\02.FindMaximal3x3SquareSumInMatrix\bin\Debug\02.FindMaximal3x3SquareSumInMatrix.exe.config
+C:\Users\Todor\documents\visual studio 2013\Projects\02.MultidimensionalArrays\02.FindMaximal3x3SquareSumInMatrix\bin\Debug\02.FindMaximal3x3SquareSumInMatrix.exe
+C:\Users\Todor\documents\visual studio 2013\Projects\02.MultidimensionalArrays\02.FindMaximal3x3SquareSumInMatrix\bin\Debug\02.FindMaximal3x3SquareSumInMatrix.pdb
+C:\Users\Todor\documents\visual studio 2013\Projects\02.MultidimensionalArrays\02.FindMaximal3x3SquareSumInMatrix\obj\Debug\02.FindMaximal3x3SquareSumInMatrix.exe
+C:\Users\Todor\documents\visual studio 2013\Projects\02.MultidimensionalArrays\02.FindMaximal3x3SquareSumInMatrix\obj\Debug\02.FindMaximal3x3SquareSumInMatrix.pdb
+C:\Users\Todor\documents\visual studio 2013\Projects\02.MultidimensionalArrays\02.FindMaximal3x3SquareSumInMatrix\obj\Debug\02.FindMaximal3x3SquareSumInMatrix.csprojResolveAssemblyReference.cache

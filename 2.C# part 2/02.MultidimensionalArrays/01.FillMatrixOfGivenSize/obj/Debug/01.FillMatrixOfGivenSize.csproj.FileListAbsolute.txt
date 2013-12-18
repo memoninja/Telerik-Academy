@@ -1,0 +1,9 @@
+c:\users\todor\documents\visual studio 2013\Projects\02.MultidimensionalArrays\01.FillMatrixOfGivenSize\bin\Debug\01.FillMatrixOfGivenSize.exe.config
+C:\Users\Todor\documents\visual studio 2013\Projects\02.MultidimensionalArrays\01.FillMatrixOfGivenSize\bin\Debug\01.FillMatrixOfGivenSize.exe
+C:\Users\Todor\documents\visual studio 2013\Projects\02.MultidimensionalArrays\01.FillMatrixOfGivenSize\bin\Debug\01.FillMatrixOfGivenSize.pdb
+C:\Users\Todor\documents\visual studio 2013\Projects\02.MultidimensionalArrays\01.FillMatrixOfGivenSize\obj\Debug\01.FillMatrixOfGivenSize.csprojResolveAssemblyReference.cache
+C:\Users\Todor\documents\visual studio 2013\Projects\02.MultidimensionalArrays\01.FillMatrixOfGivenSize\obj\Debug\01.FillMatrixOfGivenSize.exe
+C:\Users\Todor\documents\visual studio 2013\Projects\02.MultidimensionalArrays\01.FillMatrixOfGivenSize\obj\Debug\01.FillMatrixOfGivenSize.pdb
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\02.MultidimensionalArrays\01.FillMatrixOfGivenSize\bin\Debug\01.FillMatrixOfGivenSize.exe.config
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\02.MultidimensionalArrays\01.FillMatrixOfGivenSize\obj\Debug\01.FillMatrixOfGivenSize.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\02.MultidimensionalArrays\01.FillMatrixOfGivenSize\obj\Debug\01.FillMatrixOfGivenSize.pdb

@@ -1,0 +1,6 @@
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\01.Arrays\21.CombinationsOfKDistinctElements\bin\Debug\21.CombinationsOfKDistinctElements.exe.config
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\01.Arrays\21.CombinationsOfKDistinctElements\bin\Debug\21.CombinationsOfKDistinctElements.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\01.Arrays\21.CombinationsOfKDistinctElements\bin\Debug\21.CombinationsOfKDistinctElements.pdb
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\01.Arrays\21.CombinationsOfKDistinctElements\obj\Debug\21.CombinationsOfKDistinctElements.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\01.Arrays\21.CombinationsOfKDistinctElements\obj\Debug\21.CombinationsOfKDistinctElements.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\01.Arrays\21.CombinationsOfKDistinctElements\obj\Debug\21.CombinationsOfKDistinctElements.pdb

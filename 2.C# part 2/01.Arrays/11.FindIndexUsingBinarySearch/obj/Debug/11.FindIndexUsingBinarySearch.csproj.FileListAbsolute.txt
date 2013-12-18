@@ -1,0 +1,6 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.C# part 2\01.Arrays\11.FindIndexUsingBinarySearch\bin\Debug\11.FindIndexUsingBinarySearch.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.C# part 2\01.Arrays\11.FindIndexUsingBinarySearch\bin\Debug\11.FindIndexUsingBinarySearch.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.C# part 2\01.Arrays\11.FindIndexUsingBinarySearch\bin\Debug\11.FindIndexUsingBinarySearch.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.C# part 2\01.Arrays\11.FindIndexUsingBinarySearch\obj\Debug\11.FindIndexUsingBinarySearch.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.C# part 2\01.Arrays\11.FindIndexUsingBinarySearch\obj\Debug\11.FindIndexUsingBinarySearch.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.C# part 2\01.Arrays\11.FindIndexUsingBinarySearch\obj\Debug\11.FindIndexUsingBinarySearch.pdb

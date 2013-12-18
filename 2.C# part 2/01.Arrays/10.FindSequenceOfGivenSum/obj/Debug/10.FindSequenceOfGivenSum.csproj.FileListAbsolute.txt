@@ -1,0 +1,9 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.C# part 2\01.Arrays\10.FindSequenceOfGivenSum\bin\Debug\10.FindSequenceOfGivenSum.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.C# part 2\01.Arrays\10.FindSequenceOfGivenSum\bin\Debug\10.FindSequenceOfGivenSum.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.C# part 2\01.Arrays\10.FindSequenceOfGivenSum\bin\Debug\10.FindSequenceOfGivenSum.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.C# part 2\01.Arrays\10.FindSequenceOfGivenSum\obj\Debug\10.FindSequenceOfGivenSum.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.C# part 2\01.Arrays\10.FindSequenceOfGivenSum\obj\Debug\10.FindSequenceOfGivenSum.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.C# part 2\01.Arrays\10.FindSequenceOfGivenSum\obj\Debug\10.FindSequenceOfGivenSum.pdb
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\01.Arrays\10.FindSequenceOfGivenSum\bin\Debug\10.FindSequenceOfGivenSum.exe.config
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\01.Arrays\10.FindSequenceOfGivenSum\obj\Debug\10.FindSequenceOfGivenSum.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\01.Arrays\10.FindSequenceOfGivenSum\obj\Debug\10.FindSequenceOfGivenSum.pdb

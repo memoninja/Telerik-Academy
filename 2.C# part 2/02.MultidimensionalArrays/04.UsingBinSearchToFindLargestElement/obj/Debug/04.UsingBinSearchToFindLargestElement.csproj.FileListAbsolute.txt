@@ -1,0 +1,7 @@
+C:\Users\Todor\documents\visual studio 2013\Projects\02.MultidimensionalArrays\04.UsingBinSearchToFindLargestElement\bin\Debug\04.UsingBinSearchToFindLargestElement.exe.config
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\02.MultidimensionalArrays\04.UsingBinSearchToFindLargestElement\bin\Debug\04.UsingBinSearchToFindLargestElement.exe.config
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\02.MultidimensionalArrays\04.UsingBinSearchToFindLargestElement\bin\Debug\04.UsingBinSearchToFindLargestElement.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\02.MultidimensionalArrays\04.UsingBinSearchToFindLargestElement\bin\Debug\04.UsingBinSearchToFindLargestElement.pdb
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\02.MultidimensionalArrays\04.UsingBinSearchToFindLargestElement\obj\Debug\04.UsingBinSearchToFindLargestElement.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\02.MultidimensionalArrays\04.UsingBinSearchToFindLargestElement\obj\Debug\04.UsingBinSearchToFindLargestElement.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\02.MultidimensionalArrays\04.UsingBinSearchToFindLargestElement\obj\Debug\04.UsingBinSearchToFindLargestElement.pdb

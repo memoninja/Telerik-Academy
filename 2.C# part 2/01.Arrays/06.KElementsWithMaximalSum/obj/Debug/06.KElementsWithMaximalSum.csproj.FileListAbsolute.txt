@@ -1,0 +1,5 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.C# part 2\01.Arrays\06.KElementsWithMaximalSum\bin\Debug\06.KElementsWithMaximalSum.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.C# part 2\01.Arrays\06.KElementsWithMaximalSum\bin\Debug\06.KElementsWithMaximalSum.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.C# part 2\01.Arrays\06.KElementsWithMaximalSum\bin\Debug\06.KElementsWithMaximalSum.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.C# part 2\01.Arrays\06.KElementsWithMaximalSum\obj\Debug\06.KElementsWithMaximalSum.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.C# part 2\01.Arrays\06.KElementsWithMaximalSum\obj\Debug\06.KElementsWithMaximalSum.pdb

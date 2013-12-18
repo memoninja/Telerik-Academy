@@ -1,0 +1,6 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.C# part 2\01.Arrays\08.MaximalSumInGivenArray\bin\Debug\08.MaximalSumInGivenArray.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.C# part 2\01.Arrays\08.MaximalSumInGivenArray\bin\Debug\08.MaximalSumInGivenArray.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.C# part 2\01.Arrays\08.MaximalSumInGivenArray\bin\Debug\08.MaximalSumInGivenArray.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.C# part 2\01.Arrays\08.MaximalSumInGivenArray\obj\Debug\08.MaximalSumInGivenArray.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.C# part 2\01.Arrays\08.MaximalSumInGivenArray\obj\Debug\08.MaximalSumInGivenArray.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.C# part 2\01.Arrays\08.MaximalSumInGivenArray\obj\Debug\08.MaximalSumInGivenArray.pdb

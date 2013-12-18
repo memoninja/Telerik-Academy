@@ -1,0 +1,6 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.C# part 2\01.Arrays\09.FindMostFrequentNumber\bin\Debug\09.FindMostFrequentNumber.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.C# part 2\01.Arrays\09.FindMostFrequentNumber\obj\Debug\09.FindMostFrequentNumber.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.C# part 2\01.Arrays\09.FindMostFrequentNumber\bin\Debug\09.FindMostFrequentNumber.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.C# part 2\01.Arrays\09.FindMostFrequentNumber\bin\Debug\09.FindMostFrequentNumber.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.C# part 2\01.Arrays\09.FindMostFrequentNumber\obj\Debug\09.FindMostFrequentNumber.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.C# part 2\01.Arrays\09.FindMostFrequentNumber\obj\Debug\09.FindMostFrequentNumber.pdb

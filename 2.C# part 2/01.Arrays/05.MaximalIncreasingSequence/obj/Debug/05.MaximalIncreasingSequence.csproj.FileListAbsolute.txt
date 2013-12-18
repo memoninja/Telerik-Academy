@@ -1,0 +1,9 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.C# part 2\01.Arrays\05.MaximalIncreasingSequence\bin\Debug\05.MaximalIncreasingSequence.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.C# part 2\01.Arrays\05.MaximalIncreasingSequence\bin\Debug\05.MaximalIncreasingSequence.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.C# part 2\01.Arrays\05.MaximalIncreasingSequence\bin\Debug\05.MaximalIncreasingSequence.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.C# part 2\01.Arrays\05.MaximalIncreasingSequence\obj\Debug\05.MaximalIncreasingSequence.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.C# part 2\01.Arrays\05.MaximalIncreasingSequence\obj\Debug\05.MaximalIncreasingSequence.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.C# part 2\01.Arrays\05.MaximalIncreasingSequence\obj\Debug\05.MaximalIncreasingSequence.pdb
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\01.Arrays\05.MaximalIncreasingSequence\bin\Debug\05.MaximalIncreasingSequence.exe.config
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\01.Arrays\05.MaximalIncreasingSequence\obj\Debug\05.MaximalIncreasingSequence.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\01.Arrays\05.MaximalIncreasingSequence\obj\Debug\05.MaximalIncreasingSequence.pdb

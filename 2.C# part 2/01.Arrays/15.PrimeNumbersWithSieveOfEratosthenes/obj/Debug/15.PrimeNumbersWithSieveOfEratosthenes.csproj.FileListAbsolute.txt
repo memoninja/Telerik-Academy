@@ -1,0 +1,6 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.C# part 2\01.Arrays\15.PrimeNumbersWithSieveOfEratosthenes\bin\Debug\15.PrimeNumbersWithSieveOfEratosthenes.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.C# part 2\01.Arrays\15.PrimeNumbersWithSieveOfEratosthenes\bin\Debug\15.PrimeNumbersWithSieveOfEratosthenes.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.C# part 2\01.Arrays\15.PrimeNumbersWithSieveOfEratosthenes\bin\Debug\15.PrimeNumbersWithSieveOfEratosthenes.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.C# part 2\01.Arrays\15.PrimeNumbersWithSieveOfEratosthenes\obj\Debug\15.PrimeNumbersWithSieveOfEratosthenes.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.C# part 2\01.Arrays\15.PrimeNumbersWithSieveOfEratosthenes\obj\Debug\15.PrimeNumbersWithSieveOfEratosthenes.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.C# part 2\01.Arrays\15.PrimeNumbersWithSieveOfEratosthenes\obj\Debug\15.PrimeNumbersWithSieveOfEratosthenes.pdb

@@ -1,0 +1,1 @@
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\02.MultidimensionalArrays\06.ClassMatrixExercise\bin\Debug\06.ClassMatrixExercise.exe.config

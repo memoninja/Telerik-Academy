@@ -1,0 +1,6 @@
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\01.Arrays\19.GenerateAllPermutations\bin\Debug\19.GenerateAllPermutations.exe.config
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\01.Arrays\19.GenerateAllPermutations\bin\Debug\19.GenerateAllPermutations.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\01.Arrays\19.GenerateAllPermutations\bin\Debug\19.GenerateAllPermutations.pdb
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\01.Arrays\19.GenerateAllPermutations\obj\Debug\19.GenerateAllPermutations.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\01.Arrays\19.GenerateAllPermutations\obj\Debug\19.GenerateAllPermutations.pdb
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\01.Arrays\19.GenerateAllPermutations\obj\Debug\19.GenerateAllPermutations.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\02.MultidimensionalArrays\05.SortArrayOfStringsByLength\bin\Debug\05.SortArrayOfStringsByLength.exe.config
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\02.MultidimensionalArrays\05.SortArrayOfStringsByLength\bin\Debug\05.SortArrayOfStringsByLength.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\02.MultidimensionalArrays\05.SortArrayOfStringsByLength\bin\Debug\05.SortArrayOfStringsByLength.pdb
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\02.MultidimensionalArrays\05.SortArrayOfStringsByLength\obj\Debug\05.SortArrayOfStringsByLength.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\02.MultidimensionalArrays\05.SortArrayOfStringsByLength\obj\Debug\05.SortArrayOfStringsByLength.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\02.MultidimensionalArrays\05.SortArrayOfStringsByLength\obj\Debug\05.SortArrayOfStringsByLength.pdb

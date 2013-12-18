@@ -1,0 +1,15 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\01.Arrays\01.ArrayOf20Integers\bin\Debug\01.ArrayOf20Integers.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\01.Arrays\01.ArrayOf20Integers\bin\Debug\01.ArrayOf20Integers.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\01.Arrays\01.ArrayOf20Integers\bin\Debug\01.ArrayOf20Integers.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\01.Arrays\01.ArrayOf20Integers\obj\Debug\01.ArrayOf20Integers.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\01.Arrays\01.ArrayOf20Integers\obj\Debug\01.ArrayOf20Integers.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\01.Arrays\01.ArrayOf20Integers\obj\Debug\01.ArrayOf20Integers.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.C# part 2\01.Arrays\01.ArrayOf20Integers\bin\Debug\01.ArrayOf20Integers.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.C# part 2\01.Arrays\01.ArrayOf20Integers\obj\Debug\01.ArrayOf20Integers.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.C# part 2\01.Arrays\01.ArrayOf20Integers\obj\Debug\01.ArrayOf20Integers.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.C# part 2\01.Arrays\01.ArrayOf20Integers\bin\Debug\01.ArrayOf20Integers.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.C# part 2\01.Arrays\01.ArrayOf20Integers\bin\Debug\01.ArrayOf20Integers.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.C# part 2\01.Arrays\01.ArrayOf20Integers\obj\Debug\01.ArrayOf20Integers.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\01.Arrays\01.ArrayOf20Integers\bin\Debug\01.ArrayOf20Integers.exe.config
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\01.Arrays\01.ArrayOf20Integers\obj\Debug\01.ArrayOf20Integers.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\01.Arrays\01.ArrayOf20Integers\obj\Debug\01.ArrayOf20Integers.pdb
