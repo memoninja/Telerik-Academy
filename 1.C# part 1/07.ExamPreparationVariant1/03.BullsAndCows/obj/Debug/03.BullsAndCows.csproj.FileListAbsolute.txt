@@ -1,0 +1,9 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\7.PreparationForExam\03.BullsAndCows\bin\Debug\03.BullsAndCows.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\7.PreparationForExam\03.BullsAndCows\bin\Debug\03.BullsAndCows.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\7.PreparationForExam\03.BullsAndCows\bin\Debug\03.BullsAndCows.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\7.PreparationForExam\03.BullsAndCows\obj\Debug\03.BullsAndCows.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\7.PreparationForExam\03.BullsAndCows\obj\Debug\03.BullsAndCows.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\7.PreparationForExam\03.BullsAndCows\obj\Debug\03.BullsAndCows.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\7.ExamPreparationVariant1\03.BullsAndCows\bin\Debug\03.BullsAndCows.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\7.ExamPreparationVariant1\03.BullsAndCows\obj\Debug\03.BullsAndCows.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\7.ExamPreparationVariant1\03.BullsAndCows\obj\Debug\03.BullsAndCows.pdb

@@ -1,0 +1,5 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\13.ExamPreparationMorningVariant\03.BinaryDigits\bin\Debug\03.BinaryDigits.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\13.ExamPreparationMorningVariant\03.BinaryDigits\bin\Debug\03.BinaryDigits.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\13.ExamPreparationMorningVariant\03.BinaryDigits\bin\Debug\03.BinaryDigits.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\13.ExamPreparationMorningVariant\03.BinaryDigits\obj\Debug\03.BinaryDigits.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\13.ExamPreparationMorningVariant\03.BinaryDigits\obj\Debug\03.BinaryDigits.pdb

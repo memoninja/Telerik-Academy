@@ -1,0 +1,12 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\6.Loops\07.NMembersOfFibonacciSequence\bin\Debug\07.NMembersOfFibonacciSequence.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\6.Loops\07.NMembersOfFibonacciSequence\bin\Debug\07.NMembersOfFibonacciSequence.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\6.Loops\07.NMembersOfFibonacciSequence\bin\Debug\07.NMembersOfFibonacciSequence.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\6.Loops\07.NMembersOfFibonacciSequence\obj\Debug\07.NMembersOfFibonacciSequence.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\6.Loops\07.NMembersOfFibonacciSequence\obj\Debug\07.NMembersOfFibonacciSequence.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\6.Loops\07.NMembersOfFibonacciSequence\obj\Debug\07.NMembersOfFibonacciSequence.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.C# part 1\06.Loops\07.NMembersOfFibonacciSequence\bin\Debug\07.NMembersOfFibonacciSequence.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.C# part 1\06.Loops\07.NMembersOfFibonacciSequence\obj\Debug\07.NMembersOfFibonacciSequence.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.C# part 1\06.Loops\07.NMembersOfFibonacciSequence\obj\Debug\07.NMembersOfFibonacciSequence.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.C# part 1\06.Loops\07.NMembersOfFibonacciSequence\bin\Debug\07.NMembersOfFibonacciSequence.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.C# part 1\06.Loops\07.NMembersOfFibonacciSequence\bin\Debug\07.NMembersOfFibonacciSequence.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.C# part 1\06.Loops\07.NMembersOfFibonacciSequence\obj\Debug\07.NMembersOfFibonacciSequence.csprojResolveAssemblyReference.cache

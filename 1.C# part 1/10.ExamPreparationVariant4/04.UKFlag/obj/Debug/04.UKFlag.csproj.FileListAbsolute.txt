@@ -1,0 +1,9 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\10.ExamPreparationVarian4\04.UKFlag\bin\Debug\04.UKFlag.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\10.ExamPreparationVarian4\04.UKFlag\bin\Debug\04.UKFlag.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\10.ExamPreparationVarian4\04.UKFlag\bin\Debug\04.UKFlag.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\10.ExamPreparationVarian4\04.UKFlag\obj\Debug\04.UKFlag.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\10.ExamPreparationVarian4\04.UKFlag\obj\Debug\04.UKFlag.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\10.ExamPreparationVarian4\04.UKFlag\obj\Debug\04.UKFlag.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\10.ExamPreparationVariant4\04.UKFlag\bin\Debug\04.UKFlag.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\10.ExamPreparationVariant4\04.UKFlag\obj\Debug\04.UKFlag.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\10.ExamPreparationVariant4\04.UKFlag\obj\Debug\04.UKFlag.pdb

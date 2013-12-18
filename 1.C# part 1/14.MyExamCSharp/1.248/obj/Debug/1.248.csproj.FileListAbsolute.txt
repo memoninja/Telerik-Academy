@@ -1,0 +1,6 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\MyExamCSharp\1.248\bin\Debug\1.248.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\MyExamCSharp\1.248\bin\Debug\1.248.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\MyExamCSharp\1.248\bin\Debug\1.248.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\MyExamCSharp\1.248\obj\Debug\1.248.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\MyExamCSharp\1.248\obj\Debug\1.248.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\MyExamCSharp\1.248\obj\Debug\1.248.pdb

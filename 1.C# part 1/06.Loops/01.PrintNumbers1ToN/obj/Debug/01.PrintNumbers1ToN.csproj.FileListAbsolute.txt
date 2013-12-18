@@ -1,0 +1,9 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\6.Loops\01.PrintNumbers1ToN\bin\Debug\01.PrintNumbers1ToN.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\6.Loops\01.PrintNumbers1ToN\bin\Debug\01.PrintNumbers1ToN.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\6.Loops\01.PrintNumbers1ToN\bin\Debug\01.PrintNumbers1ToN.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\6.Loops\01.PrintNumbers1ToN\obj\Debug\01.PrintNumbers1ToN.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\6.Loops\01.PrintNumbers1ToN\obj\Debug\01.PrintNumbers1ToN.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\6.Loops\01.PrintNumbers1ToN\obj\Debug\01.PrintNumbers1ToN.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.C# part 1\06.Loops\01.PrintNumbers1ToN\bin\Debug\01.PrintNumbers1ToN.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.C# part 1\06.Loops\01.PrintNumbers1ToN\obj\Debug\01.PrintNumbers1ToN.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.C# part 1\06.Loops\01.PrintNumbers1ToN\obj\Debug\01.PrintNumbers1ToN.pdb

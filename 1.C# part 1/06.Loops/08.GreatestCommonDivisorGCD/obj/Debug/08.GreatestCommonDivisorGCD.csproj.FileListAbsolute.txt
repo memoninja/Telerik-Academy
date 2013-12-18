@@ -1,0 +1,9 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\6.Loops\08.GreatestCommonDivisorGCD\bin\Debug\08.GreatestCommonDivisorGCD.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\6.Loops\08.GreatestCommonDivisorGCD\bin\Debug\08.GreatestCommonDivisorGCD.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\6.Loops\08.GreatestCommonDivisorGCD\bin\Debug\08.GreatestCommonDivisorGCD.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\6.Loops\08.GreatestCommonDivisorGCD\obj\Debug\08.GreatestCommonDivisorGCD.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\6.Loops\08.GreatestCommonDivisorGCD\obj\Debug\08.GreatestCommonDivisorGCD.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\6.Loops\08.GreatestCommonDivisorGCD\obj\Debug\08.GreatestCommonDivisorGCD.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.C# part 1\06.Loops\08.GreatestCommonDivisorGCD\bin\Debug\08.GreatestCommonDivisorGCD.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.C# part 1\06.Loops\08.GreatestCommonDivisorGCD\obj\Debug\08.GreatestCommonDivisorGCD.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.C# part 1\06.Loops\08.GreatestCommonDivisorGCD\obj\Debug\08.GreatestCommonDivisorGCD.pdb

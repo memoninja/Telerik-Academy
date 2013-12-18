@@ -1,0 +1,9 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\6.Loops\04.N!DividedByK!\bin\Debug\04.N!DividedByK!.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\6.Loops\04.N!DividedByK!\bin\Debug\04.N!DividedByK!.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\6.Loops\04.N!DividedByK!\bin\Debug\04.N!DividedByK!.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\6.Loops\04.N!DividedByK!\obj\Debug\04.N!DividedByK!.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\6.Loops\04.N!DividedByK!\obj\Debug\04.N!DividedByK!.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\6.Loops\04.N!DividedByK!\obj\Debug\04.N!DividedByK!.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.C# part 1\06.Loops\04.N!DividedByK!\bin\Debug\04.N!DividedByK!.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.C# part 1\06.Loops\04.N!DividedByK!\obj\Debug\04.N!DividedByK!.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.C# part 1\06.Loops\04.N!DividedByK!\obj\Debug\04.N!DividedByK!.pdb

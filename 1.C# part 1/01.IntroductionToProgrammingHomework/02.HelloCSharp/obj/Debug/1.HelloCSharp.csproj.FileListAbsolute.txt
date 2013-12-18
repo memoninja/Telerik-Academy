@@ -1,0 +1,6 @@
+c:\users\todor\documents\visual studio 2012\Projects\IntroductionToProgrammingHomework\1.HelloCSharp\bin\Debug\1.HelloCSharp.exe.config
+c:\users\todor\documents\visual studio 2012\Projects\IntroductionToProgrammingHomework\1.HelloCSharp\bin\Debug\1.HelloCSharp.exe
+c:\users\todor\documents\visual studio 2012\Projects\IntroductionToProgrammingHomework\1.HelloCSharp\bin\Debug\1.HelloCSharp.pdb
+c:\users\todor\documents\visual studio 2012\Projects\IntroductionToProgrammingHomework\1.HelloCSharp\obj\Debug\1.HelloCSharp.csprojResolveAssemblyReference.cache
+c:\users\todor\documents\visual studio 2012\Projects\IntroductionToProgrammingHomework\1.HelloCSharp\obj\Debug\1.HelloCSharp.exe
+c:\users\todor\documents\visual studio 2012\Projects\IntroductionToProgrammingHomework\1.HelloCSharp\obj\Debug\1.HelloCSharp.pdb

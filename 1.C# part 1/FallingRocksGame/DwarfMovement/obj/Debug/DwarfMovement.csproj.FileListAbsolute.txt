@@ -1,0 +1,6 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\FallingRocksGame\DwarfMovement\bin\Debug\DwarfMovement.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\FallingRocksGame\DwarfMovement\bin\Debug\DwarfMovement.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\FallingRocksGame\DwarfMovement\bin\Debug\DwarfMovement.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\FallingRocksGame\DwarfMovement\obj\Debug\DwarfMovement.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\FallingRocksGame\DwarfMovement\obj\Debug\DwarfMovement.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\FallingRocksGame\DwarfMovement\obj\Debug\DwarfMovement.csprojResolveAssemblyReference.cache

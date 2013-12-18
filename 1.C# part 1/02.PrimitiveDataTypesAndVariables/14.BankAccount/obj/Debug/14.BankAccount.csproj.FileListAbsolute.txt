@@ -1,0 +1,16 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\2.PrimitiveDataTypesAndVariables\14.BankAccount\bin\Debug\14.BankAccount.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.PrimitiveDataTypesAndVariables\14.BankAccount\bin\Debug\14.BankAccount.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.PrimitiveDataTypesAndVariables\14.BankAccount\bin\Debug\14.BankAccount.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.PrimitiveDataTypesAndVariables\14.BankAccount\bin\Debug\14.BankAccount.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.PrimitiveDataTypesAndVariables\14.BankAccount\obj\Debug\14.BankAccount.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.PrimitiveDataTypesAndVariables\14.BankAccount\obj\Debug\14.BankAccount.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.PrimitiveDataTypesAndVariables\14.BankAccount\obj\Debug\14.BankAccount.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\2.PrimitiveDataTypesAndVariables\14.BankAccount\bin\Debug\14.BankAccount.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\2.PrimitiveDataTypesAndVariables\14.BankAccount\obj\Debug\14.BankAccount.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\2.PrimitiveDataTypesAndVariables\14.BankAccount\obj\Debug\14.BankAccount.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\2.PrimitiveDataTypesAndVariables\14.BankAccount\bin\Debug\14.BankAccount.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\2.PrimitiveDataTypesAndVariables\14.BankAccount\bin\Debug\14.BankAccount.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\2.PrimitiveDataTypesAndVariables\14.BankAccount\obj\Debug\14.BankAccount.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.C# part 1\02.PrimitiveDataTypesAndVariables\14.BankAccount\bin\Debug\14.BankAccount.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.C# part 1\02.PrimitiveDataTypesAndVariables\14.BankAccount\obj\Debug\14.BankAccount.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.C# part 1\02.PrimitiveDataTypesAndVariables\14.BankAccount\obj\Debug\14.BankAccount.pdb

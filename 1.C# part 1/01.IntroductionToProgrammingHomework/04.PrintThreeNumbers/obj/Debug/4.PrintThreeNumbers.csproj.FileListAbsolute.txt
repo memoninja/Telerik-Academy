@@ -1,0 +1,9 @@
+c:\users\todor\documents\visual studio 2012\Projects\IntroductionToProgrammingHomework\4.PrintThreeNumbers\bin\Debug\4.PrintThreeNumbers.exe.config
+c:\users\todor\documents\visual studio 2012\Projects\IntroductionToProgrammingHomework\4.PrintThreeNumbers\bin\Debug\4.PrintThreeNumbers.exe
+c:\users\todor\documents\visual studio 2012\Projects\IntroductionToProgrammingHomework\4.PrintThreeNumbers\bin\Debug\4.PrintThreeNumbers.pdb
+c:\users\todor\documents\visual studio 2012\Projects\IntroductionToProgrammingHomework\4.PrintThreeNumbers\obj\Debug\4.PrintThreeNumbers.csprojResolveAssemblyReference.cache
+c:\users\todor\documents\visual studio 2012\Projects\IntroductionToProgrammingHomework\4.PrintThreeNumbers\obj\Debug\4.PrintThreeNumbers.exe
+c:\users\todor\documents\visual studio 2012\Projects\IntroductionToProgrammingHomework\4.PrintThreeNumbers\obj\Debug\4.PrintThreeNumbers.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\IntroductionToProgrammingHomework\04.PrintThreeNumbers\bin\Debug\4.PrintThreeNumbers.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\IntroductionToProgrammingHomework\04.PrintThreeNumbers\obj\Debug\4.PrintThreeNumbers.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\IntroductionToProgrammingHomework\04.PrintThreeNumbers\obj\Debug\4.PrintThreeNumbers.pdb

@@ -1,0 +1,9 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\6.Loops\03.MinAndMaxNumber\bin\Debug\03.MinAndMaxNumber.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\6.Loops\03.MinAndMaxNumber\bin\Debug\03.MinAndMaxNumber.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\6.Loops\03.MinAndMaxNumber\bin\Debug\03.MinAndMaxNumber.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\6.Loops\03.MinAndMaxNumber\obj\Debug\03.MinAndMaxNumber.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\6.Loops\03.MinAndMaxNumber\obj\Debug\03.MinAndMaxNumber.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\6.Loops\03.MinAndMaxNumber\obj\Debug\03.MinAndMaxNumber.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.C# part 1\06.Loops\03.MinAndMaxNumber\bin\Debug\03.MinAndMaxNumber.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.C# part 1\06.Loops\03.MinAndMaxNumber\obj\Debug\03.MinAndMaxNumber.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.C# part 1\06.Loops\03.MinAndMaxNumber\obj\Debug\03.MinAndMaxNumber.pdb

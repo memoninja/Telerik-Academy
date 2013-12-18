@@ -1,0 +1,8 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\6.Loops\02.PrintNumbersNotDivisibleBy3And7\bin\Debug\02.PrintNumbersNotDivisibleBy3And7.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\6.Loops\02.PrintNumbersNotDivisibleBy3And7\bin\Debug\02.PrintNumbersNotDivisibleBy3And7.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\6.Loops\02.PrintNumbersNotDivisibleBy3And7\bin\Debug\02.PrintNumbersNotDivisibleBy3And7.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\6.Loops\02.PrintNumbersNotDivisibleBy3And7\obj\Debug\02.PrintNumbersNotDivisibleBy3And7.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\6.Loops\02.PrintNumbersNotDivisibleBy3And7\obj\Debug\02.PrintNumbersNotDivisibleBy3And7.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.C# part 1\06.Loops\02.PrintNumbersNotDivisibleBy3And7\bin\Debug\02.PrintNumbersNotDivisibleBy3And7.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.C# part 1\06.Loops\02.PrintNumbersNotDivisibleBy3And7\obj\Debug\02.PrintNumbersNotDivisibleBy3And7.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.C# part 1\06.Loops\02.PrintNumbersNotDivisibleBy3And7\obj\Debug\02.PrintNumbersNotDivisibleBy3And7.pdb

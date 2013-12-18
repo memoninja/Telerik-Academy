@@ -1,0 +1,13 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\2.PrimitiveDataTypesAndVariables\05.SymbolInUnicode\bin\Debug\05.SymbolInUnicode.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\2.PrimitiveDataTypesAndVariables\05.SymbolInUnicode\bin\Debug\05.SymbolInUnicode.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\2.PrimitiveDataTypesAndVariables\05.SymbolInUnicode\bin\Debug\05.SymbolInUnicode.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\2.PrimitiveDataTypesAndVariables\05.SymbolInUnicode\obj\Debug\05.SymbolInUnicode.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\2.PrimitiveDataTypesAndVariables\05.SymbolInUnicode\obj\Debug\05.SymbolInUnicode.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.PrimitiveDataTypesAndVariables\05.SymbolInUnicode\bin\Debug\05.SymbolInUnicode.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.PrimitiveDataTypesAndVariables\05.SymbolInUnicode\obj\Debug\05.SymbolInUnicode.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.PrimitiveDataTypesAndVariables\05.SymbolInUnicode\obj\Debug\05.SymbolInUnicode.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.PrimitiveDataTypesAndVariables\05.SymbolInUnicode\bin\Debug\05.SymbolInUnicode.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.PrimitiveDataTypesAndVariables\05.SymbolInUnicode\bin\Debug\05.SymbolInUnicode.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\2.PrimitiveDataTypesAndVariables\05.SymbolInUnicode\bin\Debug\05.SymbolInUnicode.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\2.PrimitiveDataTypesAndVariables\05.SymbolInUnicode\obj\Debug\05.SymbolInUnicode.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\2.PrimitiveDataTypesAndVariables\05.SymbolInUnicode\obj\Debug\05.SymbolInUnicode.pdb

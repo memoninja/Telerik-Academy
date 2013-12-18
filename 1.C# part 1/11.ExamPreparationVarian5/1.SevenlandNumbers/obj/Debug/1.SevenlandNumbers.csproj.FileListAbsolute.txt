@@ -1,0 +1,6 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\11.ExamPreparationVarian5\1.SevenlandNumbers\bin\Debug\1.SevenlandNumbers.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\11.ExamPreparationVarian5\1.SevenlandNumbers\bin\Debug\1.SevenlandNumbers.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\11.ExamPreparationVarian5\1.SevenlandNumbers\bin\Debug\1.SevenlandNumbers.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\11.ExamPreparationVarian5\1.SevenlandNumbers\obj\Debug\1.SevenlandNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\11.ExamPreparationVarian5\1.SevenlandNumbers\obj\Debug\1.SevenlandNumbers.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\11.ExamPreparationVarian5\1.SevenlandNumbers\obj\Debug\1.SevenlandNumbers.pdb

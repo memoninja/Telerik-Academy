@@ -1,0 +1,6 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\13.ExamPreparationMorningVariant\05.BitTowerOfDoom\bin\Debug\05.BitTowerOfDoom.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\13.ExamPreparationMorningVariant\05.BitTowerOfDoom\bin\Debug\05.BitTowerOfDoom.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\13.ExamPreparationMorningVariant\05.BitTowerOfDoom\bin\Debug\05.BitTowerOfDoom.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\13.ExamPreparationMorningVariant\05.BitTowerOfDoom\obj\Debug\05.BitTowerOfDoom.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\13.ExamPreparationMorningVariant\05.BitTowerOfDoom\obj\Debug\05.BitTowerOfDoom.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\13.ExamPreparationMorningVariant\05.BitTowerOfDoom\obj\Debug\05.BitTowerOfDoom.pdb

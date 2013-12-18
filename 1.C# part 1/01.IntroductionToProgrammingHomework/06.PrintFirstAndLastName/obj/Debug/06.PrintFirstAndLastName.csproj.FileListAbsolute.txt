@@ -1,0 +1,17 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\IntroductionToProgrammingHomework\06.PrintFirstAndLastName\bin\Debug\6.PrintFirstAndLastName.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\IntroductionToProgrammingHomework\06.PrintFirstAndLastName\obj\Debug\6.PrintFirstAndLastName.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\IntroductionToProgrammingHomework\06.PrintFirstAndLastName\obj\Debug\6.PrintFirstAndLastName.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\IntroductionToProgrammingHomework\06.PrintFirstAndLastName\bin\Debug\6.PrintFirstAndLastName.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\IntroductionToProgrammingHomework\06.PrintFirstAndLastName\bin\Debug\6.PrintFirstAndLastName.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\1.IntroductionToProgrammingHomework\06.PrintFirstAndLastName\bin\Debug\6.PrintFirstAndLastName.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\1.IntroductionToProgrammingHomework\06.PrintFirstAndLastName\obj\Debug\6.PrintFirstAndLastName.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\1.IntroductionToProgrammingHomework\06.PrintFirstAndLastName\obj\Debug\6.PrintFirstAndLastName.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\1.IntroductionToProgrammingHomework\06.PrintFirstAndLastName\bin\Debug\6.PrintFirstAndLastName.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\1.IntroductionToProgrammingHomework\06.PrintFirstAndLastName\bin\Debug\6.PrintFirstAndLastName.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\1.IntroductionToProgrammingHomework\06.PrintFirstAndLastName\obj\Debug\06.PrintFirstAndLastName.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.IntroductionToProgrammingHomework\06.PrintFirstAndLastName\bin\Debug\6.PrintFirstAndLastName.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.IntroductionToProgrammingHomework\06.PrintFirstAndLastName\obj\Debug\6.PrintFirstAndLastName.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.IntroductionToProgrammingHomework\06.PrintFirstAndLastName\obj\Debug\6.PrintFirstAndLastName.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\1.IntroductionToProgrammingHomework\06.PrintFirstAndLastName\bin\Debug\6.PrintFirstAndLastName.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\1.IntroductionToProgrammingHomework\06.PrintFirstAndLastName\obj\Debug\6.PrintFirstAndLastName.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\1.IntroductionToProgrammingHomework\06.PrintFirstAndLastName\obj\Debug\6.PrintFirstAndLastName.pdb

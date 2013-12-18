@@ -1,0 +1,9 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\5.ConditionalStatements\01.ExchangeIntegersWithIfStatement\bin\Debug\01.ExchangeIntegersWithIfStatement.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\5.ConditionalStatements\01.ExchangeIntegersWithIfStatement\bin\Debug\01.ExchangeIntegersWithIfStatement.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\5.ConditionalStatements\01.ExchangeIntegersWithIfStatement\bin\Debug\01.ExchangeIntegersWithIfStatement.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\5.ConditionalStatements\01.ExchangeIntegersWithIfStatement\obj\Debug\01.ExchangeIntegersWithIfStatement.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\5.ConditionalStatements\01.ExchangeIntegersWithIfStatement\obj\Debug\01.ExchangeIntegersWithIfStatement.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\5.ConditionalStatements\01.ExchangeIntegersWithIfStatement\obj\Debug\01.ExchangeIntegersWithIfStatement.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.C# part 1\05.ConditionalStatements\01.ExchangeIntegersWithIfStatement\bin\Debug\01.ExchangeIntegersWithIfStatement.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.C# part 1\05.ConditionalStatements\01.ExchangeIntegersWithIfStatement\obj\Debug\01.ExchangeIntegersWithIfStatement.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.C# part 1\05.ConditionalStatements\01.ExchangeIntegersWithIfStatement\obj\Debug\01.ExchangeIntegersWithIfStatement.pdb

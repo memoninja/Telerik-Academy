@@ -1,0 +1,9 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\9.ExamPreparationVarian3\01.NextDate\bin\Debug\01.NextDate.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\9.ExamPreparationVarian3\01.NextDate\bin\Debug\01.NextDate.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\9.ExamPreparationVarian3\01.NextDate\bin\Debug\01.NextDate.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\9.ExamPreparationVarian3\01.NextDate\obj\Debug\01.NextDate.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\9.ExamPreparationVarian3\01.NextDate\obj\Debug\01.NextDate.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\9.ExamPreparationVarian3\01.NextDate\obj\Debug\01.NextDate.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\9.ExamPreparationVariant3\01.NextDate\bin\Debug\01.NextDate.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\9.ExamPreparationVariant3\01.NextDate\obj\Debug\01.NextDate.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\9.ExamPreparationVariant3\01.NextDate\obj\Debug\01.NextDate.pdb

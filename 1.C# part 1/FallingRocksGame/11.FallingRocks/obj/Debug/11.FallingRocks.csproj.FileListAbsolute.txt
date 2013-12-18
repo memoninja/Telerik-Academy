@@ -1,0 +1,6 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\4.ConsoleInputOutput\11.FallingRocks\bin\Debug\11.FallingRocks.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\4.ConsoleInputOutput\11.FallingRocks\bin\Debug\11.FallingRocks.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\4.ConsoleInputOutput\11.FallingRocks\bin\Debug\11.FallingRocks.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\4.ConsoleInputOutput\11.FallingRocks\obj\Debug\11.FallingRocks.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\4.ConsoleInputOutput\11.FallingRocks\obj\Debug\11.FallingRocks.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\4.ConsoleInputOutput\11.FallingRocks\obj\Debug\11.FallingRocks.csprojResolveAssemblyReference.cache

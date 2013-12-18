@@ -1,0 +1,6 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\12.ExamPreparation\1.ShipDamage\bin\Debug\1.ShipDamage.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\12.ExamPreparation\1.ShipDamage\bin\Debug\1.ShipDamage.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\12.ExamPreparation\1.ShipDamage\bin\Debug\1.ShipDamage.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\12.ExamPreparation\1.ShipDamage\obj\Debug\1.ShipDamage.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\12.ExamPreparation\1.ShipDamage\obj\Debug\1.ShipDamage.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\12.ExamPreparation\1.ShipDamage\obj\Debug\1.ShipDamage.pdb

@@ -1,0 +1,9 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\9.ExamPreparationVarian3\04.Carpets\bin\Debug\04.Carpets.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\9.ExamPreparationVarian3\04.Carpets\bin\Debug\04.Carpets.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\9.ExamPreparationVarian3\04.Carpets\bin\Debug\04.Carpets.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\9.ExamPreparationVarian3\04.Carpets\obj\Debug\04.Carpets.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\9.ExamPreparationVarian3\04.Carpets\obj\Debug\04.Carpets.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\9.ExamPreparationVarian3\04.Carpets\obj\Debug\04.Carpets.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\9.ExamPreparationVariant3\04.Carpets\bin\Debug\04.Carpets.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\9.ExamPreparationVariant3\04.Carpets\obj\Debug\04.Carpets.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\9.ExamPreparationVariant3\04.Carpets\obj\Debug\04.Carpets.pdb

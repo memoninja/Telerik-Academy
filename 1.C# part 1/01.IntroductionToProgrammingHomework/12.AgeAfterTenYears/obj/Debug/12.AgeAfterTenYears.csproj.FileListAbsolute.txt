@@ -1,0 +1,19 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\IntroductionToProgrammingHomework\12.AgeAfterTenYears\bin\Debug\11.AgeAfterTenYears.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\IntroductionToProgrammingHomework\12.AgeAfterTenYears\obj\Debug\11.AgeAfterTenYears.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\IntroductionToProgrammingHomework\12.AgeAfterTenYears\obj\Debug\11.AgeAfterTenYears.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\1.IntroductionToProgrammingHomework\12.AgeAfterTenYears\bin\Debug\11.AgeAfterTenYears.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\1.IntroductionToProgrammingHomework\12.AgeAfterTenYears\obj\Debug\11.AgeAfterTenYears.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\1.IntroductionToProgrammingHomework\12.AgeAfterTenYears\obj\Debug\11.AgeAfterTenYears.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\1.IntroductionToProgrammingHomework\12.AgeAfterTenYears\bin\Debug\11.AgeAfterTenYears.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\1.IntroductionToProgrammingHomework\12.AgeAfterTenYears\bin\Debug\11.AgeAfterTenYears.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.IntroductionToProgrammingHomework\12.AgeAfterTenYears\bin\Debug\11.AgeAfterTenYears.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.IntroductionToProgrammingHomework\12.AgeAfterTenYears\obj\Debug\11.AgeAfterTenYears.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.IntroductionToProgrammingHomework\12.AgeAfterTenYears\obj\Debug\11.AgeAfterTenYears.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\1.IntroductionToProgrammingHomework\12.AgeAfterTenYears\bin\Debug\11.AgeAfterTenYears.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\1.IntroductionToProgrammingHomework\12.AgeAfterTenYears\obj\Debug\11.AgeAfterTenYears.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\1.IntroductionToProgrammingHomework\12.AgeAfterTenYears\obj\Debug\11.AgeAfterTenYears.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\1.IntroductionToProgrammingHomework\12.AgeAfterTenYears\bin\Debug\11.AgeAfterTenYears.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\1.IntroductionToProgrammingHomework\12.AgeAfterTenYears\bin\Debug\11.AgeAfterTenYears.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.C# part 1\01.IntroductionToProgrammingHomework\12.AgeAfterTenYears\bin\Debug\11.AgeAfterTenYears.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.C# part 1\01.IntroductionToProgrammingHomework\12.AgeAfterTenYears\obj\Debug\11.AgeAfterTenYears.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.C# part 1\01.IntroductionToProgrammingHomework\12.AgeAfterTenYears\obj\Debug\11.AgeAfterTenYears.pdb

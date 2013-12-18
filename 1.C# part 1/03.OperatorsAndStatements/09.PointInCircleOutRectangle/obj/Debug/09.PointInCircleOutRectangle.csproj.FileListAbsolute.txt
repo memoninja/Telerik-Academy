@@ -1,0 +1,9 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\3.OperatorsAndStatements\09.PointInCircleOutRectangle\bin\Debug\09.PointWithinCircleAndOutOfRectangle.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\3.OperatorsAndStatements\09.PointInCircleOutRectangle\obj\Debug\09.PointWithinCircleAndOutOfRectangle.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\3.OperatorsAndStatements\09.PointInCircleOutRectangle\obj\Debug\09.PointWithinCircleAndOutOfRectangle.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\3.OperatorsAndStatements\09.PointInCircleOutRectangle\bin\Debug\09.PointWithinCircleAndOutOfRectangle.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\3.OperatorsAndStatements\09.PointInCircleOutRectangle\bin\Debug\09.PointWithinCircleAndOutOfRectangle.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\3.OperatorsAndStatements\09.PointInCircleOutRectangle\obj\Debug\09.PointInCircleOutRectangle.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.C# part 1\03.OperatorsAndStatements\09.PointInCircleOutRectangle\bin\Debug\09.PointWithinCircleAndOutOfRectangle.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.C# part 1\03.OperatorsAndStatements\09.PointInCircleOutRectangle\obj\Debug\09.PointWithinCircleAndOutOfRectangle.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.C# part 1\03.OperatorsAndStatements\09.PointInCircleOutRectangle\obj\Debug\09.PointWithinCircleAndOutOfRectangle.pdb

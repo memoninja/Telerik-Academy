@@ -1,0 +1,5 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\4.ConsoleInputOutput\08.PrintNumbersInInterval\bin\Debug\08.PrintNumbersInInterval.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\4.ConsoleInputOutput\08.PrintNumbersInInterval\bin\Debug\08.PrintNumbersInInterval.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\4.ConsoleInputOutput\08.PrintNumbersInInterval\bin\Debug\08.PrintNumbersInInterval.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\4.ConsoleInputOutput\08.PrintNumbersInInterval\obj\Debug\08.PrintNumbersInInterval.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\4.ConsoleInputOutput\08.PrintNumbersInInterval\obj\Debug\08.PrintNumbersInInterval.pdb

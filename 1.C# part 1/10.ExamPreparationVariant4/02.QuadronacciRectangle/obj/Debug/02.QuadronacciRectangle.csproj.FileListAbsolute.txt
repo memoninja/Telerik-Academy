@@ -1,0 +1,8 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\10.ExamPreparationVarian4\02.QuadronacciRectangle\bin\Debug\02.QuadronacciRectangle.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\10.ExamPreparationVarian4\02.QuadronacciRectangle\bin\Debug\02.QuadronacciRectangle.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\10.ExamPreparationVarian4\02.QuadronacciRectangle\bin\Debug\02.QuadronacciRectangle.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\10.ExamPreparationVarian4\02.QuadronacciRectangle\obj\Debug\02.QuadronacciRectangle.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\10.ExamPreparationVarian4\02.QuadronacciRectangle\obj\Debug\02.QuadronacciRectangle.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\10.ExamPreparationVariant4\02.QuadronacciRectangle\bin\Debug\02.QuadronacciRectangle.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\10.ExamPreparationVariant4\02.QuadronacciRectangle\obj\Debug\02.QuadronacciRectangle.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\10.ExamPreparationVariant4\02.QuadronacciRectangle\obj\Debug\02.QuadronacciRectangle.pdb

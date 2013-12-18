@@ -1,0 +1,12 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\7.PreparationForExam\02.DrunkenNumbers\bin\Debug\02.DrunkenNumbers.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\7.PreparationForExam\02.DrunkenNumbers\bin\Debug\02.DrunkenNumbers.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\7.PreparationForExam\02.DrunkenNumbers\bin\Debug\02.DrunkenNumbers.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\7.PreparationForExam\02.DrunkenNumbers\obj\Debug\02.DrunkenNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\7.PreparationForExam\02.DrunkenNumbers\obj\Debug\02.DrunkenNumbers.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\7.PreparationForExam\02.DrunkenNumbers\obj\Debug\02.DrunkenNumbers.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\7.ExamPreparationVariant1\02.DrunkenNumbers\bin\Debug\02.DrunkenNumbers.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\7.ExamPreparationVariant1\02.DrunkenNumbers\obj\Debug\02.DrunkenNumbers.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\7.ExamPreparationVariant1\02.DrunkenNumbers\obj\Debug\02.DrunkenNumbers.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.C# part 1\07.ExamPreparationVariant1\02.DrunkenNumbers\bin\Debug\02.DrunkenNumbers.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.C# part 1\07.ExamPreparationVariant1\02.DrunkenNumbers\obj\Debug\02.DrunkenNumbers.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.C# part 1\07.ExamPreparationVariant1\02.DrunkenNumbers\obj\Debug\02.DrunkenNumbers.pdb

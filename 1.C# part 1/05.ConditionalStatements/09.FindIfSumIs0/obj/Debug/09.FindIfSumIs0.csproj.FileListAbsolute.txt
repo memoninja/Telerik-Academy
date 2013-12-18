@@ -1,0 +1,12 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\5.ConditionalStatements\09.FindIfSumIs0\bin\Debug\09.FindIfSumIs0.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\5.ConditionalStatements\09.FindIfSumIs0\bin\Debug\09.FindIfSumIs0.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\5.ConditionalStatements\09.FindIfSumIs0\bin\Debug\09.FindIfSumIs0.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\5.ConditionalStatements\09.FindIfSumIs0\obj\Debug\09.FindIfSumIs0.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\5.ConditionalStatements\09.FindIfSumIs0\obj\Debug\09.FindIfSumIs0.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\5.ConditionalStatements\09.FindIfSumIs0\obj\Debug\09.FindIfSumIs0.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.C# part 1\05.ConditionalStatements\09.FindIfSumIs0\bin\Debug\09.FindIfSumIs0.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.C# part 1\05.ConditionalStatements\09.FindIfSumIs0\obj\Debug\09.FindIfSumIs0.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.C# part 1\05.ConditionalStatements\09.FindIfSumIs0\obj\Debug\09.FindIfSumIs0.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.C# part 1\05.ConditionalStatements\09.FindIfSumIs0\bin\Debug\09.FindIfSumIs0.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.C# part 1\05.ConditionalStatements\09.FindIfSumIs0\bin\Debug\09.FindIfSumIs0.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.C# part 1\05.ConditionalStatements\09.FindIfSumIs0\obj\Debug\09.FindIfSumIs0.csprojResolveAssemblyReference.cache

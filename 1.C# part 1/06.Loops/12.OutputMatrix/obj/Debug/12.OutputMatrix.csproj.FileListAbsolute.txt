@@ -1,0 +1,11 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\6.Loops\12.OutputMatrix\bin\Debug\12.OutputMatrix.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\6.Loops\12.OutputMatrix\bin\Debug\12.OutputMatrix.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\6.Loops\12.OutputMatrix\bin\Debug\12.OutputMatrix.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\6.Loops\12.OutputMatrix\obj\Debug\12.OutputMatrix.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\6.Loops\12.OutputMatrix\obj\Debug\12.OutputMatrix.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.C# part 1\06.Loops\12.OutputMatrix\bin\Debug\12.OutputMatrix.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.C# part 1\06.Loops\12.OutputMatrix\obj\Debug\12.OutputMatrix.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.C# part 1\06.Loops\12.OutputMatrix\obj\Debug\12.OutputMatrix.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.C# part 1\06.Loops\12.OutputMatrix\bin\Debug\12.OutputMatrix.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.C# part 1\06.Loops\12.OutputMatrix\bin\Debug\12.OutputMatrix.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.C# part 1\06.Loops\12.OutputMatrix\obj\Debug\12.OutputMatrix.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\5.ConditionalStatements\10.ApplyBonusScores\bin\Debug\10.ApplyBonusScores.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\5.ConditionalStatements\10.ApplyBonusScores\bin\Debug\10.ApplyBonusScores.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\5.ConditionalStatements\10.ApplyBonusScores\bin\Debug\10.ApplyBonusScores.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\5.ConditionalStatements\10.ApplyBonusScores\obj\Debug\10.ApplyBonusScores.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\5.ConditionalStatements\10.ApplyBonusScores\obj\Debug\10.ApplyBonusScores.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\5.ConditionalStatements\10.ApplyBonusScores\obj\Debug\10.ApplyBonusScores.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.C# part 1\05.ConditionalStatements\10.ApplyBonusScores\bin\Debug\10.ApplyBonusScores.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.C# part 1\05.ConditionalStatements\10.ApplyBonusScores\obj\Debug\10.ApplyBonusScores.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.C# part 1\05.ConditionalStatements\10.ApplyBonusScores\obj\Debug\10.ApplyBonusScores.pdb

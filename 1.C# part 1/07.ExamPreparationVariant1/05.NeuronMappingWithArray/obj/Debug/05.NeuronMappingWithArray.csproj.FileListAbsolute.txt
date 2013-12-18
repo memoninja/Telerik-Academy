@@ -1,0 +1,14 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\5.PreparationForExam\05.NeuronMappingWithArray\bin\Debug\05.NeuronMappingWithArray.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\5.PreparationForExam\05.NeuronMappingWithArray\bin\Debug\05.NeuronMappingWithArray.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\5.PreparationForExam\05.NeuronMappingWithArray\bin\Debug\05.NeuronMappingWithArray.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\5.PreparationForExam\05.NeuronMappingWithArray\obj\Debug\05.NeuronMappingWithArray.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\5.PreparationForExam\05.NeuronMappingWithArray\obj\Debug\05.NeuronMappingWithArray.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\7.PreparationForExam\05.NeuronMappingWithArray\bin\Debug\05.NeuronMappingWithArray.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\7.PreparationForExam\05.NeuronMappingWithArray\obj\Debug\05.NeuronMappingWithArray.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\7.PreparationForExam\05.NeuronMappingWithArray\obj\Debug\05.NeuronMappingWithArray.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\7.PreparationForExam\05.NeuronMappingWithArray\bin\Debug\05.NeuronMappingWithArray.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\7.PreparationForExam\05.NeuronMappingWithArray\bin\Debug\05.NeuronMappingWithArray.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\7.PreparationForExam\05.NeuronMappingWithArray\obj\Debug\05.NeuronMappingWithArray.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\7.ExamPreparationVariant1\05.NeuronMappingWithArray\bin\Debug\05.NeuronMappingWithArray.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\7.ExamPreparationVariant1\05.NeuronMappingWithArray\obj\Debug\05.NeuronMappingWithArray.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\7.ExamPreparationVariant1\05.NeuronMappingWithArray\obj\Debug\05.NeuronMappingWithArray.pdb

@@ -1,0 +1,6 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\13.ExamPreparationMorningVariant\01.AmericanPie\bin\Debug\01.AmericanPie.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\13.ExamPreparationMorningVariant\01.AmericanPie\bin\Debug\01.AmericanPie.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\13.ExamPreparationMorningVariant\01.AmericanPie\bin\Debug\01.AmericanPie.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\13.ExamPreparationMorningVariant\01.AmericanPie\obj\Debug\01.AmericanPie.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\13.ExamPreparationMorningVariant\01.AmericanPie\obj\Debug\01.AmericanPie.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\13.ExamPreparationMorningVariant\01.AmericanPie\obj\Debug\01.AmericanPie.pdb

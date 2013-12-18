@@ -1,0 +1,20 @@
+c:\users\todor\documents\visual studio 2012\Projects\2.PrimitiveDataTypesAndVariables\2.FloatOrDoubleAssignment\bin\Debug\2.FloatOrDoubleAssignment.exe.config
+c:\users\todor\documents\visual studio 2012\Projects\2.PrimitiveDataTypesAndVariables\2.FloatOrDoubleAssignment\bin\Debug\2.FloatOrDoubleAssignment.exe
+c:\users\todor\documents\visual studio 2012\Projects\2.PrimitiveDataTypesAndVariables\2.FloatOrDoubleAssignment\bin\Debug\2.FloatOrDoubleAssignment.pdb
+c:\users\todor\documents\visual studio 2012\Projects\2.PrimitiveDataTypesAndVariables\2.FloatOrDoubleAssignment\obj\Debug\2.FloatOrDoubleAssignment.exe
+c:\users\todor\documents\visual studio 2012\Projects\2.PrimitiveDataTypesAndVariables\2.FloatOrDoubleAssignment\obj\Debug\2.FloatOrDoubleAssignment.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\2.PrimitiveDataTypesAndVariables\02.FloatOrDoubleAssignment\bin\Debug\2.FloatOrDoubleAssignment.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\2.PrimitiveDataTypesAndVariables\02.FloatOrDoubleAssignment\obj\Debug\2.FloatOrDoubleAssignment.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\2.PrimitiveDataTypesAndVariables\02.FloatOrDoubleAssignment\obj\Debug\2.FloatOrDoubleAssignment.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\2.PrimitiveDataTypesAndVariables\02.FloatOrDoubleAssignment\bin\Debug\2.FloatOrDoubleAssignment.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\2.PrimitiveDataTypesAndVariables\02.FloatOrDoubleAssignment\bin\Debug\2.FloatOrDoubleAssignment.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\2.PrimitiveDataTypesAndVariables\02.FloatOrDoubleAssignment\obj\Debug\02.FloatOrDoubleAssignment.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.PrimitiveDataTypesAndVariables\02.FloatOrDoubleAssignment\bin\Debug\2.FloatOrDoubleAssignment.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.PrimitiveDataTypesAndVariables\02.FloatOrDoubleAssignment\obj\Debug\2.FloatOrDoubleAssignment.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.PrimitiveDataTypesAndVariables\02.FloatOrDoubleAssignment\obj\Debug\2.FloatOrDoubleAssignment.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.PrimitiveDataTypesAndVariables\02.FloatOrDoubleAssignment\bin\Debug\2.FloatOrDoubleAssignment.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.PrimitiveDataTypesAndVariables\02.FloatOrDoubleAssignment\bin\Debug\2.FloatOrDoubleAssignment.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.PrimitiveDataTypesAndVariables\02.FloatOrDoubleAssignment\obj\Debug\02.FloatOrDoubleAssignment.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\2.PrimitiveDataTypesAndVariables\02.FloatOrDoubleAssignment\bin\Debug\2.FloatOrDoubleAssignment.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\2.PrimitiveDataTypesAndVariables\02.FloatOrDoubleAssignment\obj\Debug\2.FloatOrDoubleAssignment.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\2.PrimitiveDataTypesAndVariables\02.FloatOrDoubleAssignment\obj\Debug\2.FloatOrDoubleAssignment.pdb

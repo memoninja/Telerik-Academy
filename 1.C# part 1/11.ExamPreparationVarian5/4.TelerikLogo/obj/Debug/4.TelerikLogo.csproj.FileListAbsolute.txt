@@ -1,0 +1,6 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\11.ExamPreparationVarian5\4.TelerikLogo\bin\Debug\4.TelerikLogo.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\11.ExamPreparationVarian5\4.TelerikLogo\bin\Debug\4.TelerikLogo.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\11.ExamPreparationVarian5\4.TelerikLogo\bin\Debug\4.TelerikLogo.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\11.ExamPreparationVarian5\4.TelerikLogo\obj\Debug\4.TelerikLogo.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\11.ExamPreparationVarian5\4.TelerikLogo\obj\Debug\4.TelerikLogo.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\11.ExamPreparationVarian5\4.TelerikLogo\obj\Debug\4.TelerikLogo.pdb

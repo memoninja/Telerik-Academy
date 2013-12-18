@@ -1,0 +1,9 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\3.OperatorsAndStatements\08.TrapezoidArea\bin\Debug\08.TrapezoidArea.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\3.OperatorsAndStatements\08.TrapezoidArea\bin\Debug\08.TrapezoidArea.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\3.OperatorsAndStatements\08.TrapezoidArea\bin\Debug\08.TrapezoidArea.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\3.OperatorsAndStatements\08.TrapezoidArea\obj\Debug\08.TrapezoidArea.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\3.OperatorsAndStatements\08.TrapezoidArea\obj\Debug\08.TrapezoidArea.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\3.OperatorsAndStatements\08.TrapezoidArea\obj\Debug\08.TrapezoidArea.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.C# part 1\03.OperatorsAndStatements\08.TrapezoidArea\bin\Debug\08.TrapezoidArea.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.C# part 1\03.OperatorsAndStatements\08.TrapezoidArea\obj\Debug\08.TrapezoidArea.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.C# part 1\03.OperatorsAndStatements\08.TrapezoidArea\obj\Debug\08.TrapezoidArea.pdb

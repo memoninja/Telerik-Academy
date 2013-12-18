@@ -1,0 +1,6 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\4.ConsoleInputOutput\10.SumWithGivenAccuracy\bin\Debug\10.SumWithGivenAccuracy.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\4.ConsoleInputOutput\10.SumWithGivenAccuracy\bin\Debug\10.SumWithGivenAccuracy.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\4.ConsoleInputOutput\10.SumWithGivenAccuracy\bin\Debug\10.SumWithGivenAccuracy.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\4.ConsoleInputOutput\10.SumWithGivenAccuracy\obj\Debug\10.SumWithGivenAccuracy.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\4.ConsoleInputOutput\10.SumWithGivenAccuracy\obj\Debug\10.SumWithGivenAccuracy.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\4.ConsoleInputOutput\10.SumWithGivenAccuracy\obj\Debug\10.SumWithGivenAccuracy.csprojResolveAssemblyReference.cache

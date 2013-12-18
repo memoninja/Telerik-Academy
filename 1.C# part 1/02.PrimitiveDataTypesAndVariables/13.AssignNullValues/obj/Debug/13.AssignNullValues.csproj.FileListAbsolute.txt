@@ -1,0 +1,14 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\2.PrimitiveDataTypesAndVariables\13.AssignNullValues\bin\Debug\13.AssignNullValues.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\2.PrimitiveDataTypesAndVariables\13.AssignNullValues\bin\Debug\13.AssignNullValues.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\2.PrimitiveDataTypesAndVariables\13.AssignNullValues\bin\Debug\13.AssignNullValues.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\2.PrimitiveDataTypesAndVariables\13.AssignNullValues\obj\Debug\13.AssignNullValues.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\2.PrimitiveDataTypesAndVariables\13.AssignNullValues\obj\Debug\13.AssignNullValues.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.PrimitiveDataTypesAndVariables\13.AssignNullValues\bin\Debug\13.AssignNullValues.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.PrimitiveDataTypesAndVariables\13.AssignNullValues\obj\Debug\13.AssignNullValues.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.PrimitiveDataTypesAndVariables\13.AssignNullValues\obj\Debug\13.AssignNullValues.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.PrimitiveDataTypesAndVariables\13.AssignNullValues\bin\Debug\13.AssignNullValues.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.PrimitiveDataTypesAndVariables\13.AssignNullValues\bin\Debug\13.AssignNullValues.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.PrimitiveDataTypesAndVariables\13.AssignNullValues\obj\Debug\13.AssignNullValues.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\2.PrimitiveDataTypesAndVariables\13.AssignNullValues\bin\Debug\13.AssignNullValues.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\2.PrimitiveDataTypesAndVariables\13.AssignNullValues\obj\Debug\13.AssignNullValues.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\2.PrimitiveDataTypesAndVariables\13.AssignNullValues\obj\Debug\13.AssignNullValues.pdb

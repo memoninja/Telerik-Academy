@@ -1,0 +1,9 @@
+c:\users\todor\documents\visual studio 2012\Projects\IntroductionToProgrammingHomework\1.HelloCSharp\bin\Debug\1.HelloCSharp.exe.config
+c:\users\todor\documents\visual studio 2012\Projects\IntroductionToProgrammingHomework\1.HelloCSharp\obj\Debug\1.HelloCSharp.exe
+c:\users\todor\documents\visual studio 2012\Projects\IntroductionToProgrammingHomework\1.HelloCSharp\obj\Debug\1.HelloCSharp.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\IntroductionToProgrammingHomework\2.HelloCSharp\bin\Debug\1.HelloCSharp.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\IntroductionToProgrammingHomework\2.HelloCSharp\obj\Debug\1.HelloCSharp.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\IntroductionToProgrammingHomework\2.HelloCSharp\obj\Debug\1.HelloCSharp.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\IntroductionToProgrammingHomework\02.HelloCSharp\bin\Debug\1.HelloCSharp.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\IntroductionToProgrammingHomework\02.HelloCSharp\obj\Debug\1.HelloCSharp.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\IntroductionToProgrammingHomework\02.HelloCSharp\obj\Debug\1.HelloCSharp.pdb

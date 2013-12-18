@@ -1,0 +1,9 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\3.OperatorsAndStatements\06.PointWithinCircle\bin\Debug\06.PointWithinCircle.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\3.OperatorsAndStatements\06.PointWithinCircle\bin\Debug\06.PointWithinCircle.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\3.OperatorsAndStatements\06.PointWithinCircle\bin\Debug\06.PointWithinCircle.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\3.OperatorsAndStatements\06.PointWithinCircle\obj\Debug\06.PointWithinCircle.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\3.OperatorsAndStatements\06.PointWithinCircle\obj\Debug\06.PointWithinCircle.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\3.OperatorsAndStatements\06.PointWithinCircle\obj\Debug\06.PointWithinCircle.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.C# part 1\03.OperatorsAndStatements\06.PointWithinCircle\bin\Debug\06.PointWithinCircle.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.C# part 1\03.OperatorsAndStatements\06.PointWithinCircle\obj\Debug\06.PointWithinCircle.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.C# part 1\03.OperatorsAndStatements\06.PointWithinCircle\obj\Debug\06.PointWithinCircle.pdb

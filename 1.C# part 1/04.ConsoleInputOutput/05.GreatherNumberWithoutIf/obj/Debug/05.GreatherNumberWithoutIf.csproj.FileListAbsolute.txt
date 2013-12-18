@@ -1,0 +1,6 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\4.ConsoleInputOutput\05.GreatherNumberWithoutIf\bin\Debug\05.GreatherNumberWithoutIf.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\4.ConsoleInputOutput\05.GreatherNumberWithoutIf\bin\Debug\05.GreatherNumberWithoutIf.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\4.ConsoleInputOutput\05.GreatherNumberWithoutIf\bin\Debug\05.GreatherNumberWithoutIf.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\4.ConsoleInputOutput\05.GreatherNumberWithoutIf\obj\Debug\05.GreatherNumberWithoutIf.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\4.ConsoleInputOutput\05.GreatherNumberWithoutIf\obj\Debug\05.GreatherNumberWithoutIf.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\4.ConsoleInputOutput\05.GreatherNumberWithoutIf\obj\Debug\05.GreatherNumberWithoutIf.pdb

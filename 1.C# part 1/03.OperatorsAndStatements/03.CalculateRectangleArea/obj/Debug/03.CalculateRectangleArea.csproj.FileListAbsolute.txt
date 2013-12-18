@@ -1,0 +1,9 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\3.OperatorsAndStatements\03.CalculateRectangleArea\bin\Debug\03.CalculateRectangleArea.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\3.OperatorsAndStatements\03.CalculateRectangleArea\bin\Debug\03.CalculateRectangleArea.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\3.OperatorsAndStatements\03.CalculateRectangleArea\bin\Debug\03.CalculateRectangleArea.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\3.OperatorsAndStatements\03.CalculateRectangleArea\obj\Debug\03.CalculateRectangleArea.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\3.OperatorsAndStatements\03.CalculateRectangleArea\obj\Debug\03.CalculateRectangleArea.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\3.OperatorsAndStatements\03.CalculateRectangleArea\obj\Debug\03.CalculateRectangleArea.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.C# part 1\03.OperatorsAndStatements\03.CalculateRectangleArea\bin\Debug\03.CalculateRectangleArea.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.C# part 1\03.OperatorsAndStatements\03.CalculateRectangleArea\obj\Debug\03.CalculateRectangleArea.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.C# part 1\03.OperatorsAndStatements\03.CalculateRectangleArea\obj\Debug\03.CalculateRectangleArea.pdb

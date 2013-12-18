@@ -1,0 +1,9 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\6.Loops\11.CardsFromDeck\bin\Debug\11.CardsFromDeck.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\6.Loops\11.CardsFromDeck\bin\Debug\11.CardsFromDeck.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\6.Loops\11.CardsFromDeck\bin\Debug\11.CardsFromDeck.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\6.Loops\11.CardsFromDeck\obj\Debug\11.CardsFromDeck.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\6.Loops\11.CardsFromDeck\obj\Debug\11.CardsFromDeck.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\6.Loops\11.CardsFromDeck\obj\Debug\11.CardsFromDeck.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.C# part 1\06.Loops\11.CardsFromDeck\bin\Debug\11.CardsFromDeck.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.C# part 1\06.Loops\11.CardsFromDeck\obj\Debug\11.CardsFromDeck.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.C# part 1\06.Loops\11.CardsFromDeck\obj\Debug\11.CardsFromDeck.pdb

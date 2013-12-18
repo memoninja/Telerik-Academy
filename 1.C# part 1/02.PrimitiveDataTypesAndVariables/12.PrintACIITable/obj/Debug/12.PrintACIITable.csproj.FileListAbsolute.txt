@@ -1,0 +1,15 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\2.PrimitiveDataTypesAndVariables\12.PrintACIITable\bin\Debug\12.PrintACIITable.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\2.PrimitiveDataTypesAndVariables\12.PrintACIITable\bin\Debug\12.PrintACIITable.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\2.PrimitiveDataTypesAndVariables\12.PrintACIITable\bin\Debug\12.PrintACIITable.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\2.PrimitiveDataTypesAndVariables\12.PrintACIITable\obj\Debug\12.PrintACIITable.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\2.PrimitiveDataTypesAndVariables\12.PrintACIITable\obj\Debug\12.PrintACIITable.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\2.PrimitiveDataTypesAndVariables\12.PrintACIITable\obj\Debug\12.PrintACIITable.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.PrimitiveDataTypesAndVariables\12.PrintACIITable\bin\Debug\12.PrintACIITable.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.PrimitiveDataTypesAndVariables\12.PrintACIITable\obj\Debug\12.PrintACIITable.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.PrimitiveDataTypesAndVariables\12.PrintACIITable\obj\Debug\12.PrintACIITable.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.PrimitiveDataTypesAndVariables\12.PrintACIITable\bin\Debug\12.PrintACIITable.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.PrimitiveDataTypesAndVariables\12.PrintACIITable\bin\Debug\12.PrintACIITable.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.PrimitiveDataTypesAndVariables\12.PrintACIITable\obj\Debug\12.PrintACIITable.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\2.PrimitiveDataTypesAndVariables\12.PrintACIITable\bin\Debug\12.PrintACIITable.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\2.PrimitiveDataTypesAndVariables\12.PrintACIITable\obj\Debug\12.PrintACIITable.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\2.PrimitiveDataTypesAndVariables\12.PrintACIITable\obj\Debug\12.PrintACIITable.pdb

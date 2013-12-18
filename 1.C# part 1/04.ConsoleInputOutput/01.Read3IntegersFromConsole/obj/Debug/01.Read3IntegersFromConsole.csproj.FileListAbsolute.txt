@@ -1,0 +1,6 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\4.ConsoleInputOutput\01.Read3IntegersFromConsole\bin\Debug\01.Read3IntegersFromConsole.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\4.ConsoleInputOutput\01.Read3IntegersFromConsole\bin\Debug\01.Read3IntegersFromConsole.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\4.ConsoleInputOutput\01.Read3IntegersFromConsole\bin\Debug\01.Read3IntegersFromConsole.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\4.ConsoleInputOutput\01.Read3IntegersFromConsole\obj\Debug\01.Read3IntegersFromConsole.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\4.ConsoleInputOutput\01.Read3IntegersFromConsole\obj\Debug\01.Read3IntegersFromConsole.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\4.ConsoleInputOutput\01.Read3IntegersFromConsole\obj\Debug\01.Read3IntegersFromConsole.pdb

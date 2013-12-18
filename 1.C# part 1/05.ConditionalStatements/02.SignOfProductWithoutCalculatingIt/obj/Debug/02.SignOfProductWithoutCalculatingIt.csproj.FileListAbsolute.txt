@@ -1,0 +1,6 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\5.ConditionalStatements\02.SignOfProductWithoutCalculatingIt\bin\Debug\02.SignOfProductWithoutCalculatingIt.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\5.ConditionalStatements\02.SignOfProductWithoutCalculatingIt\bin\Debug\02.SignOfProductWithoutCalculatingIt.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\5.ConditionalStatements\02.SignOfProductWithoutCalculatingIt\bin\Debug\02.SignOfProductWithoutCalculatingIt.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\5.ConditionalStatements\02.SignOfProductWithoutCalculatingIt\obj\Debug\02.SignOfProductWithoutCalculatingIt.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\5.ConditionalStatements\02.SignOfProductWithoutCalculatingIt\obj\Debug\02.SignOfProductWithoutCalculatingIt.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\5.ConditionalStatements\02.SignOfProductWithoutCalculatingIt\obj\Debug\02.SignOfProductWithoutCalculatingIt.csprojResolveAssemblyReference.cache

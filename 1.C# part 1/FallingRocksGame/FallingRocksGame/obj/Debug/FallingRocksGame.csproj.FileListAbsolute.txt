@@ -1,0 +1,6 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\FallingRocksGame\FallingRocksGame\bin\Debug\FallingRocksGame.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\FallingRocksGame\FallingRocksGame\bin\Debug\FallingRocksGame.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\FallingRocksGame\FallingRocksGame\bin\Debug\FallingRocksGame.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\FallingRocksGame\FallingRocksGame\obj\Debug\FallingRocksGame.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\FallingRocksGame\FallingRocksGame\obj\Debug\FallingRocksGame.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\FallingRocksGame\FallingRocksGame\obj\Debug\FallingRocksGame.csprojResolveAssemblyReference.cache

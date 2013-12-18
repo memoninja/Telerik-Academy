@@ -1,0 +1,9 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\9.ExamPreparationVarian3\03.Sheets\bin\Debug\03.Sheets.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\9.ExamPreparationVarian3\03.Sheets\bin\Debug\03.Sheets.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\9.ExamPreparationVarian3\03.Sheets\bin\Debug\03.Sheets.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\9.ExamPreparationVarian3\03.Sheets\obj\Debug\03.Sheets.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\9.ExamPreparationVarian3\03.Sheets\obj\Debug\03.Sheets.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\9.ExamPreparationVarian3\03.Sheets\obj\Debug\03.Sheets.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\9.ExamPreparationVariant3\03.Sheets\bin\Debug\03.Sheets.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\9.ExamPreparationVariant3\03.Sheets\obj\Debug\03.Sheets.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\9.ExamPreparationVariant3\03.Sheets\obj\Debug\03.Sheets.pdb

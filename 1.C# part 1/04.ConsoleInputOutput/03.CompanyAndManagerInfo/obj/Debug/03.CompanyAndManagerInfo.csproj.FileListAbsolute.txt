@@ -1,0 +1,6 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\4.ConsoleInputOutput\03.CompanyAndManagerInfo\bin\Debug\03.CompanyAndManagerInfo.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\4.ConsoleInputOutput\03.CompanyAndManagerInfo\bin\Debug\03.CompanyAndManagerInfo.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\4.ConsoleInputOutput\03.CompanyAndManagerInfo\bin\Debug\03.CompanyAndManagerInfo.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\4.ConsoleInputOutput\03.CompanyAndManagerInfo\obj\Debug\03.CompanyAndManagerInfo.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\4.ConsoleInputOutput\03.CompanyAndManagerInfo\obj\Debug\03.CompanyAndManagerInfo.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\4.ConsoleInputOutput\03.CompanyAndManagerInfo\obj\Debug\03.CompanyAndManagerInfo.csprojResolveAssemblyReference.cache

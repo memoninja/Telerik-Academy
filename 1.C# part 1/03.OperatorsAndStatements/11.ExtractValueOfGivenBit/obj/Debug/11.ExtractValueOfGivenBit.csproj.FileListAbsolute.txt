@@ -1,0 +1,9 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\3.OperatorsAndStatements\11.ExtractValueOfGivenBit\bin\Debug\11.ExtractValueOfGivenBit.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\3.OperatorsAndStatements\11.ExtractValueOfGivenBit\bin\Debug\11.ExtractValueOfGivenBit.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\3.OperatorsAndStatements\11.ExtractValueOfGivenBit\bin\Debug\11.ExtractValueOfGivenBit.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\3.OperatorsAndStatements\11.ExtractValueOfGivenBit\obj\Debug\11.ExtractValueOfGivenBit.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\3.OperatorsAndStatements\11.ExtractValueOfGivenBit\obj\Debug\11.ExtractValueOfGivenBit.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\3.OperatorsAndStatements\11.ExtractValueOfGivenBit\obj\Debug\11.ExtractValueOfGivenBit.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.C# part 1\03.OperatorsAndStatements\11.ExtractValueOfGivenBit\bin\Debug\11.ExtractValueOfGivenBit.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.C# part 1\03.OperatorsAndStatements\11.ExtractValueOfGivenBit\obj\Debug\11.ExtractValueOfGivenBit.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.C# part 1\03.OperatorsAndStatements\11.ExtractValueOfGivenBit\obj\Debug\11.ExtractValueOfGivenBit.pdb

@@ -1,0 +1,18 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\2.PrimitiveDataTypesAndVariables\09.PrintIsoscelesTriangle\bin\Debug\09.PrintIsoscelesTriangle.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\2.PrimitiveDataTypesAndVariables\09.PrintIsoscelesTriangle\bin\Debug\09.PrintIsoscelesTriangle.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\2.PrimitiveDataTypesAndVariables\09.PrintIsoscelesTriangle\bin\Debug\09.PrintIsoscelesTriangle.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\2.PrimitiveDataTypesAndVariables\09.PrintIsoscelesTriangle\obj\Debug\09.PrintIsoscelesTriangle.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\2.PrimitiveDataTypesAndVariables\09.PrintIsoscelesTriangle\obj\Debug\09.PrintIsoscelesTriangle.pdb
+C:\Users\Todor\documents\visual studio 2012\Projects\2.PrimitiveDataTypesAndVariables\09.PrintIsoscelesTriangle\obj\Debug\09.PrintIsoscelesTriangle.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.PrimitiveDataTypesAndVariables\09.PrintIsoscelesTriangle\bin\Debug\09.PrintIsoscelesTriangle.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.PrimitiveDataTypesAndVariables\09.PrintIsoscelesTriangle\obj\Debug\09.PrintIsoscelesTriangle.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.PrimitiveDataTypesAndVariables\09.PrintIsoscelesTriangle\obj\Debug\09.PrintIsoscelesTriangle.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.PrimitiveDataTypesAndVariables\09.PrintIsoscelesTriangle\bin\Debug\09.PrintIsoscelesTriangle.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.PrimitiveDataTypesAndVariables\09.PrintIsoscelesTriangle\bin\Debug\09.PrintIsoscelesTriangle.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.PrimitiveDataTypesAndVariables\09.PrintIsoscelesTriangle\obj\Debug\09.PrintIsoscelesTriangle.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\2.PrimitiveDataTypesAndVariables\09.PrintIsoscelesTriangle\bin\Debug\09.PrintIsoscelesTriangle.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\2.PrimitiveDataTypesAndVariables\09.PrintIsoscelesTriangle\obj\Debug\09.PrintIsoscelesTriangle.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\2.PrimitiveDataTypesAndVariables\09.PrintIsoscelesTriangle\obj\Debug\09.PrintIsoscelesTriangle.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\2.PrimitiveDataTypesAndVariables\09.PrintIsoscelesTriangle\bin\Debug\09.PrintIsoscelesTriangle.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\2.PrimitiveDataTypesAndVariables\09.PrintIsoscelesTriangle\bin\Debug\09.PrintIsoscelesTriangle.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\2.PrimitiveDataTypesAndVariables\09.PrintIsoscelesTriangle\obj\Debug\09.PrintIsoscelesTriangle.csprojResolveAssemblyReference.cache

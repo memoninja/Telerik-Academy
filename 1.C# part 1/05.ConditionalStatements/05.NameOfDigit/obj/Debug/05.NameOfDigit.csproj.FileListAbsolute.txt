@@ -1,0 +1,6 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\5.ConditionalStatements\05.NameOfDigit\bin\Debug\05.NameOfDigit.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\5.ConditionalStatements\05.NameOfDigit\bin\Debug\05.NameOfDigit.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\5.ConditionalStatements\05.NameOfDigit\bin\Debug\05.NameOfDigit.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\5.ConditionalStatements\05.NameOfDigit\obj\Debug\05.NameOfDigit.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\5.ConditionalStatements\05.NameOfDigit\obj\Debug\05.NameOfDigit.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\5.ConditionalStatements\05.NameOfDigit\obj\Debug\05.NameOfDigit.pdb

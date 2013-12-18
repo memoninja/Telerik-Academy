@@ -1,0 +1,13 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\2.PrimitiveDataTypesAndVariables\04.ValueInHexadecimalFormat\bin\Debug\04.ValueInHexadecimalFormat.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\2.PrimitiveDataTypesAndVariables\04.ValueInHexadecimalFormat\bin\Debug\04.ValueInHexadecimalFormat.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\2.PrimitiveDataTypesAndVariables\04.ValueInHexadecimalFormat\bin\Debug\04.ValueInHexadecimalFormat.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\2.PrimitiveDataTypesAndVariables\04.ValueInHexadecimalFormat\obj\Debug\04.ValueInHexadecimalFormat.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\2.PrimitiveDataTypesAndVariables\04.ValueInHexadecimalFormat\obj\Debug\04.ValueInHexadecimalFormat.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.PrimitiveDataTypesAndVariables\04.ValueInHexadecimalFormat\bin\Debug\04.ValueInHexadecimalFormat.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.PrimitiveDataTypesAndVariables\04.ValueInHexadecimalFormat\obj\Debug\04.ValueInHexadecimalFormat.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.PrimitiveDataTypesAndVariables\04.ValueInHexadecimalFormat\obj\Debug\04.ValueInHexadecimalFormat.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.PrimitiveDataTypesAndVariables\04.ValueInHexadecimalFormat\bin\Debug\04.ValueInHexadecimalFormat.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.PrimitiveDataTypesAndVariables\04.ValueInHexadecimalFormat\bin\Debug\04.ValueInHexadecimalFormat.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\2.PrimitiveDataTypesAndVariables\04.ValueInHexadecimalFormat\bin\Debug\04.ValueInHexadecimalFormat.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\2.PrimitiveDataTypesAndVariables\04.ValueInHexadecimalFormat\obj\Debug\04.ValueInHexadecimalFormat.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\2.PrimitiveDataTypesAndVariables\04.ValueInHexadecimalFormat\obj\Debug\04.ValueInHexadecimalFormat.pdb

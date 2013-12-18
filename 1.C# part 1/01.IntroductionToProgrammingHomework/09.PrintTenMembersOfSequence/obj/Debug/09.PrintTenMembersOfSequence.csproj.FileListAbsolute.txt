@@ -1,0 +1,20 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\IntroductionToProgrammingHomework\09.PrintTenMembersOfSequence\bin\Debug\9.PrintTenMembersOfSequence.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\IntroductionToProgrammingHomework\09.PrintTenMembersOfSequence\obj\Debug\9.PrintTenMembersOfSequence.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\IntroductionToProgrammingHomework\09.PrintTenMembersOfSequence\obj\Debug\9.PrintTenMembersOfSequence.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\IntroductionToProgrammingHomework\09.PrintTenMembersOfSequence\bin\Debug\9.PrintTenMembersOfSequence.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\IntroductionToProgrammingHomework\09.PrintTenMembersOfSequence\bin\Debug\9.PrintTenMembersOfSequence.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\1.IntroductionToProgrammingHomework\09.PrintTenMembersOfSequence\bin\Debug\9.PrintTenMembersOfSequence.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\1.IntroductionToProgrammingHomework\09.PrintTenMembersOfSequence\obj\Debug\9.PrintTenMembersOfSequence.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\1.IntroductionToProgrammingHomework\09.PrintTenMembersOfSequence\obj\Debug\9.PrintTenMembersOfSequence.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\1.IntroductionToProgrammingHomework\09.PrintTenMembersOfSequence\bin\Debug\9.PrintTenMembersOfSequence.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\1.IntroductionToProgrammingHomework\09.PrintTenMembersOfSequence\bin\Debug\9.PrintTenMembersOfSequence.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\1.IntroductionToProgrammingHomework\09.PrintTenMembersOfSequence\obj\Debug\09.PrintTenMembersOfSequence.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\1.IntroductionToProgrammingHomework\09.PrintTenMembersOfSequence\bin\Debug\9.PrintTenMembersOfSequence.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\1.IntroductionToProgrammingHomework\09.PrintTenMembersOfSequence\obj\Debug\9.PrintTenMembersOfSequence.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\1.IntroductionToProgrammingHomework\09.PrintTenMembersOfSequence\obj\Debug\9.PrintTenMembersOfSequence.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\1.IntroductionToProgrammingHomework\09.PrintTenMembersOfSequence\bin\Debug\9.PrintTenMembersOfSequence.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\1.IntroductionToProgrammingHomework\09.PrintTenMembersOfSequence\bin\Debug\9.PrintTenMembersOfSequence.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\1.IntroductionToProgrammingHomework\09.PrintTenMembersOfSequence\obj\Debug\09.PrintTenMembersOfSequence.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.C# part 1\01.IntroductionToProgrammingHomework\09.PrintTenMembersOfSequence\bin\Debug\9.PrintTenMembersOfSequence.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.C# part 1\01.IntroductionToProgrammingHomework\09.PrintTenMembersOfSequence\obj\Debug\9.PrintTenMembersOfSequence.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.C# part 1\01.IntroductionToProgrammingHomework\09.PrintTenMembersOfSequence\obj\Debug\9.PrintTenMembersOfSequence.pdb

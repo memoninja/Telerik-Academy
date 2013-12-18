@@ -1,0 +1,6 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\11.ExamPreparationVarian5\2.ANnacci\bin\Debug\2.ANnacci.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\11.ExamPreparationVarian5\2.ANnacci\bin\Debug\2.ANnacci.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\11.ExamPreparationVarian5\2.ANnacci\bin\Debug\2.ANnacci.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\11.ExamPreparationVarian5\2.ANnacci\obj\Debug\2.ANnacci.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\11.ExamPreparationVarian5\2.ANnacci\obj\Debug\2.ANnacci.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\11.ExamPreparationVarian5\2.ANnacci\obj\Debug\2.ANnacci.pdb

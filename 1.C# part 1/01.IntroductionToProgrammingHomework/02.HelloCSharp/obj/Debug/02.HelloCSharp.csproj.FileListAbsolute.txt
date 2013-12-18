@@ -1,0 +1,18 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\IntroductionToProgrammingHomework\02.HelloCSharp\bin\Debug\1.HelloCSharp.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\IntroductionToProgrammingHomework\02.HelloCSharp\obj\Debug\1.HelloCSharp.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\IntroductionToProgrammingHomework\02.HelloCSharp\obj\Debug\1.HelloCSharp.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\IntroductionToProgrammingHomework\02.HelloCSharp\bin\Debug\1.HelloCSharp.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\IntroductionToProgrammingHomework\02.HelloCSharp\bin\Debug\1.HelloCSharp.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\IntroductionToProgrammingHomework\02.HelloCSharp\obj\Debug\02.HelloCSharp.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\1.IntroductionToProgrammingHomework\02.HelloCSharp\bin\Debug\1.HelloCSharp.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\1.IntroductionToProgrammingHomework\02.HelloCSharp\obj\Debug\1.HelloCSharp.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\1.IntroductionToProgrammingHomework\02.HelloCSharp\obj\Debug\1.HelloCSharp.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.IntroductionToProgrammingHomework\02.HelloCSharp\bin\Debug\1.HelloCSharp.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.IntroductionToProgrammingHomework\02.HelloCSharp\obj\Debug\1.HelloCSharp.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.IntroductionToProgrammingHomework\02.HelloCSharp\obj\Debug\1.HelloCSharp.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\1.IntroductionToProgrammingHomework\02.HelloCSharp\bin\Debug\1.HelloCSharp.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\1.IntroductionToProgrammingHomework\02.HelloCSharp\obj\Debug\1.HelloCSharp.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\1.IntroductionToProgrammingHomework\02.HelloCSharp\obj\Debug\1.HelloCSharp.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.C# part 1\01.IntroductionToProgrammingHomework\02.HelloCSharp\bin\Debug\1.HelloCSharp.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.C# part 1\01.IntroductionToProgrammingHomework\02.HelloCSharp\obj\Debug\1.HelloCSharp.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.C# part 1\01.IntroductionToProgrammingHomework\02.HelloCSharp\obj\Debug\1.HelloCSharp.pdb

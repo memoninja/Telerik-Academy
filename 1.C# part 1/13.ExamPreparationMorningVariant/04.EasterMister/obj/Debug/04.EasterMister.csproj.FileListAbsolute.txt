@@ -1,0 +1,6 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\13.ExamPreparationMorningVariant\04.EasterMister\bin\Debug\04.EasterMister.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\13.ExamPreparationMorningVariant\04.EasterMister\bin\Debug\04.EasterMister.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\13.ExamPreparationMorningVariant\04.EasterMister\bin\Debug\04.EasterMister.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\13.ExamPreparationMorningVariant\04.EasterMister\obj\Debug\04.EasterMister.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\13.ExamPreparationMorningVariant\04.EasterMister\obj\Debug\04.EasterMister.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\13.ExamPreparationMorningVariant\04.EasterMister\obj\Debug\04.EasterMister.csprojResolveAssemblyReference.cache

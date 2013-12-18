@@ -1,0 +1,6 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\MyExamCSharp\5.GameOfPage\bin\Debug\5.GameOfPage.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\MyExamCSharp\5.GameOfPage\bin\Debug\5.GameOfPage.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\MyExamCSharp\5.GameOfPage\bin\Debug\5.GameOfPage.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\MyExamCSharp\5.GameOfPage\obj\Debug\5.GameOfPage.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\MyExamCSharp\5.GameOfPage\obj\Debug\5.GameOfPage.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\MyExamCSharp\5.GameOfPage\obj\Debug\5.GameOfPage.pdb

@@ -1,0 +1,6 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\4.ConsoleInputOutput\06.SolveQuadraticEquation\bin\Debug\06.SolveQuadraticEquation.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\4.ConsoleInputOutput\06.SolveQuadraticEquation\bin\Debug\06.SolveQuadraticEquation.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\4.ConsoleInputOutput\06.SolveQuadraticEquation\bin\Debug\06.SolveQuadraticEquation.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\4.ConsoleInputOutput\06.SolveQuadraticEquation\obj\Debug\06.SolveQuadraticEquation.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\4.ConsoleInputOutput\06.SolveQuadraticEquation\obj\Debug\06.SolveQuadraticEquation.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\4.ConsoleInputOutput\06.SolveQuadraticEquation\obj\Debug\06.SolveQuadraticEquation.pdb

@@ -1,0 +1,14 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\IntroductionToProgrammingHomework\08.CalculateAndPrintSquare\bin\Debug\8.CalculateAndPrintSquare.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\IntroductionToProgrammingHomework\08.CalculateAndPrintSquare\obj\Debug\8.CalculateAndPrintSquare.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\IntroductionToProgrammingHomework\08.CalculateAndPrintSquare\obj\Debug\8.CalculateAndPrintSquare.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\1.IntroductionToProgrammingHomework\08.CalculateAndPrintSquare\bin\Debug\8.CalculateAndPrintSquare.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\1.IntroductionToProgrammingHomework\08.CalculateAndPrintSquare\obj\Debug\8.CalculateAndPrintSquare.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\1.IntroductionToProgrammingHomework\08.CalculateAndPrintSquare\obj\Debug\8.CalculateAndPrintSquare.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\1.IntroductionToProgrammingHomework\08.CalculateAndPrintSquare\bin\Debug\8.CalculateAndPrintSquare.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\1.IntroductionToProgrammingHomework\08.CalculateAndPrintSquare\bin\Debug\8.CalculateAndPrintSquare.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.IntroductionToProgrammingHomework\08.CalculateAndPrintSquare\bin\Debug\8.CalculateAndPrintSquare.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.IntroductionToProgrammingHomework\08.CalculateAndPrintSquare\obj\Debug\8.CalculateAndPrintSquare.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.IntroductionToProgrammingHomework\08.CalculateAndPrintSquare\obj\Debug\8.CalculateAndPrintSquare.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\1.IntroductionToProgrammingHomework\08.CalculateAndPrintSquare\bin\Debug\8.CalculateAndPrintSquare.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\1.IntroductionToProgrammingHomework\08.CalculateAndPrintSquare\obj\Debug\8.CalculateAndPrintSquare.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\1.IntroductionToProgrammingHomework\08.CalculateAndPrintSquare\obj\Debug\8.CalculateAndPrintSquare.pdb

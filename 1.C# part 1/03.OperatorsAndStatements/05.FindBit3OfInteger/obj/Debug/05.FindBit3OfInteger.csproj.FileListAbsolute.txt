@@ -1,0 +1,9 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\3.OperatorsAndStatements\05.FindBit3OfInteger\bin\Debug\05.FindBit3OfInteger.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\3.OperatorsAndStatements\05.FindBit3OfInteger\bin\Debug\05.FindBit3OfInteger.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\3.OperatorsAndStatements\05.FindBit3OfInteger\bin\Debug\05.FindBit3OfInteger.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\3.OperatorsAndStatements\05.FindBit3OfInteger\obj\Debug\05.FindBit3OfInteger.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\3.OperatorsAndStatements\05.FindBit3OfInteger\obj\Debug\05.FindBit3OfInteger.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\3.OperatorsAndStatements\05.FindBit3OfInteger\obj\Debug\05.FindBit3OfInteger.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.C# part 1\03.OperatorsAndStatements\05.FindBit3OfInteger\bin\Debug\05.FindBit3OfInteger.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.C# part 1\03.OperatorsAndStatements\05.FindBit3OfInteger\obj\Debug\05.FindBit3OfInteger.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.C# part 1\03.OperatorsAndStatements\05.FindBit3OfInteger\obj\Debug\05.FindBit3OfInteger.pdb

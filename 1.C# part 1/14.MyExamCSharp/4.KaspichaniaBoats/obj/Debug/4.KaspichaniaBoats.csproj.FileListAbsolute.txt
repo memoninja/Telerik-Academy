@@ -1,0 +1,5 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\MyExamCSharp\4.KaspichaniaBoats\bin\Debug\4.KaspichaniaBoats.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\MyExamCSharp\4.KaspichaniaBoats\bin\Debug\4.KaspichaniaBoats.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\MyExamCSharp\4.KaspichaniaBoats\bin\Debug\4.KaspichaniaBoats.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\MyExamCSharp\4.KaspichaniaBoats\obj\Debug\4.KaspichaniaBoats.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\MyExamCSharp\4.KaspichaniaBoats\obj\Debug\4.KaspichaniaBoats.pdb

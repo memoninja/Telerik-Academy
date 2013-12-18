@@ -1,0 +1,9 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\7.PreparationForExam\04.FireInTheMatrix\bin\Debug\04.FireInTheMatrix.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\7.PreparationForExam\04.FireInTheMatrix\bin\Debug\04.FireInTheMatrix.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\7.PreparationForExam\04.FireInTheMatrix\bin\Debug\04.FireInTheMatrix.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\7.PreparationForExam\04.FireInTheMatrix\obj\Debug\04.FireInTheMatrix.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\7.PreparationForExam\04.FireInTheMatrix\obj\Debug\04.FireInTheMatrix.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\7.PreparationForExam\04.FireInTheMatrix\obj\Debug\04.FireInTheMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\7.ExamPreparationVariant1\04.FireInTheMatrix\bin\Debug\04.FireInTheMatrix.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\7.ExamPreparationVariant1\04.FireInTheMatrix\obj\Debug\04.FireInTheMatrix.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\7.ExamPreparationVariant1\04.FireInTheMatrix\obj\Debug\04.FireInTheMatrix.pdb

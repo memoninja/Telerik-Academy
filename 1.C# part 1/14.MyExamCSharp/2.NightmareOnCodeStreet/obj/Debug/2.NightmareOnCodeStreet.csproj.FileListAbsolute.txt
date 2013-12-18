@@ -1,0 +1,5 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\MyExamCSharp\2.NightmareOnCodeStreet\bin\Debug\2.NightmareOnCodeStreet.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\MyExamCSharp\2.NightmareOnCodeStreet\bin\Debug\2.NightmareOnCodeStreet.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\MyExamCSharp\2.NightmareOnCodeStreet\bin\Debug\2.NightmareOnCodeStreet.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\MyExamCSharp\2.NightmareOnCodeStreet\obj\Debug\2.NightmareOnCodeStreet.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\MyExamCSharp\2.NightmareOnCodeStreet\obj\Debug\2.NightmareOnCodeStreet.pdb

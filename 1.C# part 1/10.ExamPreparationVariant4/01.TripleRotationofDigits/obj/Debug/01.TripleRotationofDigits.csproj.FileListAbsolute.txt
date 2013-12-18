@@ -1,0 +1,9 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\10.ExamPreparationVarian4\01.TripleRotationofDigits\bin\Debug\01.TripleRotationofDigits.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\10.ExamPreparationVarian4\01.TripleRotationofDigits\bin\Debug\01.TripleRotationofDigits.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\10.ExamPreparationVarian4\01.TripleRotationofDigits\bin\Debug\01.TripleRotationofDigits.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\10.ExamPreparationVarian4\01.TripleRotationofDigits\obj\Debug\01.TripleRotationofDigits.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\10.ExamPreparationVarian4\01.TripleRotationofDigits\obj\Debug\01.TripleRotationofDigits.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\10.ExamPreparationVarian4\01.TripleRotationofDigits\obj\Debug\01.TripleRotationofDigits.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\10.ExamPreparationVariant4\01.TripleRotationofDigits\bin\Debug\01.TripleRotationofDigits.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\10.ExamPreparationVariant4\01.TripleRotationofDigits\obj\Debug\01.TripleRotationofDigits.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\10.ExamPreparationVariant4\01.TripleRotationofDigits\obj\Debug\01.TripleRotationofDigits.pdb

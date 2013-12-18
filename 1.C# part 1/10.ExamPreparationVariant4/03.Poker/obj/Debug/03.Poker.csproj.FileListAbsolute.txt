@@ -1,0 +1,9 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\10.ExamPreparationVarian4\03.Poker\bin\Debug\03.Poker.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\10.ExamPreparationVarian4\03.Poker\bin\Debug\03.Poker.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\10.ExamPreparationVarian4\03.Poker\bin\Debug\03.Poker.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\10.ExamPreparationVarian4\03.Poker\obj\Debug\03.Poker.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\10.ExamPreparationVarian4\03.Poker\obj\Debug\03.Poker.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\10.ExamPreparationVarian4\03.Poker\obj\Debug\03.Poker.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\10.ExamPreparationVariant4\03.Poker\bin\Debug\03.Poker.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\10.ExamPreparationVariant4\03.Poker\obj\Debug\03.Poker.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\10.ExamPreparationVariant4\03.Poker\obj\Debug\03.Poker.pdb

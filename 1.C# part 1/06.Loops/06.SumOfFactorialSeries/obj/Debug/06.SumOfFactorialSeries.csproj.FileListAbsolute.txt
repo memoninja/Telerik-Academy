@@ -1,0 +1,12 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\6.Loops\06.SumOfFactorialSeries\bin\Debug\06.SumOfFactorialSeries.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\6.Loops\06.SumOfFactorialSeries\bin\Debug\06.SumOfFactorialSeries.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\6.Loops\06.SumOfFactorialSeries\bin\Debug\06.SumOfFactorialSeries.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\6.Loops\06.SumOfFactorialSeries\obj\Debug\06.SumOfFactorialSeries.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\6.Loops\06.SumOfFactorialSeries\obj\Debug\06.SumOfFactorialSeries.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\6.Loops\06.SumOfFactorialSeries\obj\Debug\06.SumOfFactorialSeries.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.C# part 1\06.Loops\06.SumOfFactorialSeries\bin\Debug\06.SumOfFactorialSeries.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.C# part 1\06.Loops\06.SumOfFactorialSeries\obj\Debug\06.SumOfFactorialSeries.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.C# part 1\06.Loops\06.SumOfFactorialSeries\obj\Debug\06.SumOfFactorialSeries.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.C# part 1\06.Loops\06.SumOfFactorialSeries\bin\Debug\06.SumOfFactorialSeries.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.C# part 1\06.Loops\06.SumOfFactorialSeries\bin\Debug\06.SumOfFactorialSeries.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.C# part 1\06.Loops\06.SumOfFactorialSeries\obj\Debug\06.SumOfFactorialSeries.csprojResolveAssemblyReference.cache

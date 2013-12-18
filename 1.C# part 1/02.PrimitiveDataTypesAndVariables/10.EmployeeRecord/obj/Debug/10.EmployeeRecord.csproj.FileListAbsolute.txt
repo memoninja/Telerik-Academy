@@ -1,0 +1,15 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\2.PrimitiveDataTypesAndVariables\10.EmployeeRecord\bin\Debug\10.EmployeeRecord.exe.config
+C:\Users\Todor\documents\visual studio 2012\Projects\2.PrimitiveDataTypesAndVariables\10.EmployeeRecord\bin\Debug\10.EmployeeRecord.exe
+C:\Users\Todor\documents\visual studio 2012\Projects\2.PrimitiveDataTypesAndVariables\10.EmployeeRecord\bin\Debug\10.EmployeeRecord.pdb
+C:\Users\Todor\documents\visual studio 2012\Projects\2.PrimitiveDataTypesAndVariables\10.EmployeeRecord\obj\Debug\10.EmployeeRecord.csprojResolveAssemblyReference.cache
+C:\Users\Todor\documents\visual studio 2012\Projects\2.PrimitiveDataTypesAndVariables\10.EmployeeRecord\obj\Debug\10.EmployeeRecord.exe
+C:\Users\Todor\documents\visual studio 2012\Projects\2.PrimitiveDataTypesAndVariables\10.EmployeeRecord\obj\Debug\10.EmployeeRecord.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.PrimitiveDataTypesAndVariables\10.EmployeeRecord\bin\Debug\10.EmployeeRecord.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.PrimitiveDataTypesAndVariables\10.EmployeeRecord\obj\Debug\10.EmployeeRecord.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.PrimitiveDataTypesAndVariables\10.EmployeeRecord\obj\Debug\10.EmployeeRecord.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.PrimitiveDataTypesAndVariables\10.EmployeeRecord\bin\Debug\10.EmployeeRecord.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.PrimitiveDataTypesAndVariables\10.EmployeeRecord\bin\Debug\10.EmployeeRecord.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.PrimitiveDataTypesAndVariables\10.EmployeeRecord\obj\Debug\10.EmployeeRecord.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\2.PrimitiveDataTypesAndVariables\10.EmployeeRecord\bin\Debug\10.EmployeeRecord.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\2.PrimitiveDataTypesAndVariables\10.EmployeeRecord\obj\Debug\10.EmployeeRecord.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\2.PrimitiveDataTypesAndVariables\10.EmployeeRecord\obj\Debug\10.EmployeeRecord.pdb

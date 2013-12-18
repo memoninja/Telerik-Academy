@@ -1,0 +1,13 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\2.PrimitiveDataTypesAndVariables\07.ConcatStringsToObject\bin\Debug\07.ConcatStringsToObject.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\2.PrimitiveDataTypesAndVariables\07.ConcatStringsToObject\bin\Debug\07.ConcatStringsToObject.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\2.PrimitiveDataTypesAndVariables\07.ConcatStringsToObject\bin\Debug\07.ConcatStringsToObject.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\2.PrimitiveDataTypesAndVariables\07.ConcatStringsToObject\obj\Debug\07.ConcatStringsToObject.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\2.PrimitiveDataTypesAndVariables\07.ConcatStringsToObject\obj\Debug\07.ConcatStringsToObject.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.PrimitiveDataTypesAndVariables\07.ConcatStringsToObject\bin\Debug\07.ConcatStringsToObject.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.PrimitiveDataTypesAndVariables\07.ConcatStringsToObject\obj\Debug\07.ConcatStringsToObject.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.PrimitiveDataTypesAndVariables\07.ConcatStringsToObject\obj\Debug\07.ConcatStringsToObject.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.PrimitiveDataTypesAndVariables\07.ConcatStringsToObject\bin\Debug\07.ConcatStringsToObject.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.PrimitiveDataTypesAndVariables\07.ConcatStringsToObject\bin\Debug\07.ConcatStringsToObject.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\2.PrimitiveDataTypesAndVariables\07.ConcatStringsToObject\bin\Debug\07.ConcatStringsToObject.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\2.PrimitiveDataTypesAndVariables\07.ConcatStringsToObject\obj\Debug\07.ConcatStringsToObject.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\2.PrimitiveDataTypesAndVariables\07.ConcatStringsToObject\obj\Debug\07.ConcatStringsToObject.pdb

@@ -1,0 +1,8 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\IntroductionToProgrammingHomework\9.PrintTenMembersOfSequence\bin\Debug\9.PrintTenMembersOfSequence.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\IntroductionToProgrammingHomework\9.PrintTenMembersOfSequence\bin\Debug\9.PrintTenMembersOfSequence.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\IntroductionToProgrammingHomework\9.PrintTenMembersOfSequence\bin\Debug\9.PrintTenMembersOfSequence.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\IntroductionToProgrammingHomework\9.PrintTenMembersOfSequence\obj\Debug\9.PrintTenMembersOfSequence.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\IntroductionToProgrammingHomework\9.PrintTenMembersOfSequence\obj\Debug\9.PrintTenMembersOfSequence.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\IntroductionToProgrammingHomework\09.PrintTenMembersOfSequence\bin\Debug\9.PrintTenMembersOfSequence.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\IntroductionToProgrammingHomework\09.PrintTenMembersOfSequence\obj\Debug\9.PrintTenMembersOfSequence.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\IntroductionToProgrammingHomework\09.PrintTenMembersOfSequence\obj\Debug\9.PrintTenMembersOfSequence.pdb

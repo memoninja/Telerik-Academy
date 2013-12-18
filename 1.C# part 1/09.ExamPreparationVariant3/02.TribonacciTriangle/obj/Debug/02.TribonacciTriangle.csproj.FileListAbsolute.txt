@@ -1,0 +1,9 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\9.ExamPreparationVarian3\02.TribonacciTriangle\bin\Debug\02.TribonacciTriangle.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\9.ExamPreparationVarian3\02.TribonacciTriangle\bin\Debug\02.TribonacciTriangle.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\9.ExamPreparationVarian3\02.TribonacciTriangle\bin\Debug\02.TribonacciTriangle.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\9.ExamPreparationVarian3\02.TribonacciTriangle\obj\Debug\02.TribonacciTriangle.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\9.ExamPreparationVarian3\02.TribonacciTriangle\obj\Debug\02.TribonacciTriangle.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\9.ExamPreparationVarian3\02.TribonacciTriangle\obj\Debug\02.TribonacciTriangle.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\9.ExamPreparationVariant3\02.TribonacciTriangle\bin\Debug\02.TribonacciTriangle.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\9.ExamPreparationVariant3\02.TribonacciTriangle\obj\Debug\02.TribonacciTriangle.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\9.ExamPreparationVariant3\02.TribonacciTriangle\obj\Debug\02.TribonacciTriangle.pdb

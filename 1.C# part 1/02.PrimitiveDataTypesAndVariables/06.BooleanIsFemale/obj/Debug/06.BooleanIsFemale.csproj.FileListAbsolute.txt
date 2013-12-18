@@ -1,0 +1,16 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\2.PrimitiveDataTypesAndVariables\06.BooleanIsFemale\bin\Debug\06.BooleanIsFemale.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\2.PrimitiveDataTypesAndVariables\06.BooleanIsFemale\bin\Debug\06.BooleanIsFemale.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\2.PrimitiveDataTypesAndVariables\06.BooleanIsFemale\bin\Debug\06.BooleanIsFemale.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\2.PrimitiveDataTypesAndVariables\06.BooleanIsFemale\obj\Debug\06.BooleanIsFemale.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\2.PrimitiveDataTypesAndVariables\06.BooleanIsFemale\obj\Debug\06.BooleanIsFemale.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.PrimitiveDataTypesAndVariables\06.BooleanIsFemale\bin\Debug\06.BooleanIsFemale.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.PrimitiveDataTypesAndVariables\06.BooleanIsFemale\obj\Debug\06.BooleanIsFemale.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.PrimitiveDataTypesAndVariables\06.BooleanIsFemale\obj\Debug\06.BooleanIsFemale.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.PrimitiveDataTypesAndVariables\06.BooleanIsFemale\bin\Debug\06.BooleanIsFemale.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\2.PrimitiveDataTypesAndVariables\06.BooleanIsFemale\bin\Debug\06.BooleanIsFemale.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\2.PrimitiveDataTypesAndVariables\06.BooleanIsFemale\bin\Debug\06.BooleanIsFemale.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\2.PrimitiveDataTypesAndVariables\06.BooleanIsFemale\obj\Debug\06.BooleanIsFemale.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\2.PrimitiveDataTypesAndVariables\06.BooleanIsFemale\obj\Debug\06.BooleanIsFemale.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\2.PrimitiveDataTypesAndVariables\06.BooleanIsFemale\bin\Debug\06.BooleanIsFemale.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\2.PrimitiveDataTypesAndVariables\06.BooleanIsFemale\bin\Debug\06.BooleanIsFemale.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\2.PrimitiveDataTypesAndVariables\06.BooleanIsFemale\obj\Debug\06.BooleanIsFemale.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\8.ExamPreparationVariant2\03.CardWarsBatka\bin\Debug\03.CardWarsBatka.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\8.ExamPreparationVariant2\03.CardWarsBatka\bin\Debug\03.CardWarsBatka.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\8.ExamPreparationVariant2\03.CardWarsBatka\bin\Debug\03.CardWarsBatka.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\8.ExamPreparationVariant2\03.CardWarsBatka\obj\Debug\03.CardWarsBatka.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\8.ExamPreparationVariant2\03.CardWarsBatka\obj\Debug\03.CardWarsBatka.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\8.ExamPreparationVariant2\03.CardWarsBatka\obj\Debug\03.CardWarsBatka.pdb

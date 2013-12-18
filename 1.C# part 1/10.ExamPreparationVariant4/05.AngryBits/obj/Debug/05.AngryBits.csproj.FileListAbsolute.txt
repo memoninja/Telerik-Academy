@@ -1,0 +1,9 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\10.ExamPreparationVarian4\05.AngryBits\bin\Debug\05.AngryBits.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\10.ExamPreparationVarian4\05.AngryBits\bin\Debug\05.AngryBits.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\10.ExamPreparationVarian4\05.AngryBits\bin\Debug\05.AngryBits.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\10.ExamPreparationVarian4\05.AngryBits\obj\Debug\05.AngryBits.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\10.ExamPreparationVarian4\05.AngryBits\obj\Debug\05.AngryBits.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\10.ExamPreparationVarian4\05.AngryBits\obj\Debug\05.AngryBits.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\10.ExamPreparationVariant4\05.AngryBits\bin\Debug\05.AngryBits.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\10.ExamPreparationVariant4\05.AngryBits\obj\Debug\05.AngryBits.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\10.ExamPreparationVariant4\05.AngryBits\obj\Debug\05.AngryBits.pdb

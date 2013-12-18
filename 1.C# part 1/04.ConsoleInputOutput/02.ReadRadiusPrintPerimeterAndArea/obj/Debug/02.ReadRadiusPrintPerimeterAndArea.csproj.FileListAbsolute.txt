@@ -1,0 +1,1 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\4.ConsoleInputOutput\02.ReadRadiusPrintPerimeterAndArea\bin\Debug\02.ReadRadiusPrintPerimeterAndArea.exe.config

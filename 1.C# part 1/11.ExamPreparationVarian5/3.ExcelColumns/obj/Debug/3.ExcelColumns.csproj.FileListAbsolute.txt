@@ -1,0 +1,6 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\11.ExamPreparationVarian5\3.ExcelColumns\bin\Debug\3.ExcelColumns.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\11.ExamPreparationVarian5\3.ExcelColumns\bin\Debug\3.ExcelColumns.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\11.ExamPreparationVarian5\3.ExcelColumns\bin\Debug\3.ExcelColumns.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\11.ExamPreparationVarian5\3.ExcelColumns\obj\Debug\3.ExcelColumns.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\11.ExamPreparationVarian5\3.ExcelColumns\obj\Debug\3.ExcelColumns.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\11.ExamPreparationVarian5\3.ExcelColumns\obj\Debug\3.ExcelColumns.pdb

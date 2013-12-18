@@ -1,0 +1,6 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\5.ConditionalStatements\11.ConvertNumberToText\bin\Debug\11.ConvertNumberToText.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\5.ConditionalStatements\11.ConvertNumberToText\bin\Debug\11.ConvertNumberToText.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\5.ConditionalStatements\11.ConvertNumberToText\bin\Debug\11.ConvertNumberToText.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\5.ConditionalStatements\11.ConvertNumberToText\obj\Debug\11.ConvertNumberToText.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\5.ConditionalStatements\11.ConvertNumberToText\obj\Debug\11.ConvertNumberToText.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\5.ConditionalStatements\11.ConvertNumberToText\obj\Debug\11.ConvertNumberToText.csprojResolveAssemblyReference.cache

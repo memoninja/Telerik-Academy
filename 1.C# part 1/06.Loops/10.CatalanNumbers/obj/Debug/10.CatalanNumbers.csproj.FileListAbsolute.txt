@@ -1,0 +1,2 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\6.Loops\10.CatalanNumbers\bin\Debug\10.CatalanNumbers.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.C# part 1\06.Loops\10.CatalanNumbers\bin\Debug\10.CatalanNumbers.exe.config

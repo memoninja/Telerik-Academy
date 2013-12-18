@@ -1,0 +1,10 @@
+C:\Users\Todor\documents\visual studio 2012\Projects\2.PrimitiveDataTypesAndVariables\03.ComparisonWithPrecision\bin\Debug\03.ComparisonWithPrecision.exe.config
+C:\Users\Todor\documents\visual studio 2012\Projects\2.PrimitiveDataTypesAndVariables\03.ComparisonWithPrecision\bin\Debug\03.ComparisonWithPrecision.exe
+C:\Users\Todor\documents\visual studio 2012\Projects\2.PrimitiveDataTypesAndVariables\03.ComparisonWithPrecision\bin\Debug\03.ComparisonWithPrecision.pdb
+C:\Users\Todor\documents\visual studio 2012\Projects\2.PrimitiveDataTypesAndVariables\03.ComparisonWithPrecision\obj\Debug\03.ComparisonWithPrecision.exe
+C:\Users\Todor\documents\visual studio 2012\Projects\2.PrimitiveDataTypesAndVariables\03.ComparisonWithPrecision\obj\Debug\03.ComparisonWithPrecision.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\2.PrimitiveDataTypesAndVariables\03.ComparisonWithPrecision\bin\Debug\03.ComparisonWithPrecision.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\2.PrimitiveDataTypesAndVariables\03.ComparisonWithPrecision\obj\Debug\03.ComparisonWithPrecision.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\2.PrimitiveDataTypesAndVariables\03.ComparisonWithPrecision\obj\Debug\03.ComparisonWithPrecision.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\2.PrimitiveDataTypesAndVariables\03.ComparisonWithPrecision\bin\Debug\03.ComparisonWithPrecision.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\2.PrimitiveDataTypesAndVariables\03.ComparisonWithPrecision\bin\Debug\03.ComparisonWithPrecision.pdb

@@ -1,0 +1,8 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\3.OperatorsAndStatements\10.CheckBitAtPosition\bin\Debug\10.BitAtPosition.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\3.OperatorsAndStatements\10.CheckBitAtPosition\obj\Debug\10.BitAtPosition.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\3.OperatorsAndStatements\10.CheckBitAtPosition\obj\Debug\10.BitAtPosition.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\3.OperatorsAndStatements\10.CheckBitAtPosition\bin\Debug\10.BitAtPosition.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\3.OperatorsAndStatements\10.CheckBitAtPosition\bin\Debug\10.BitAtPosition.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.C# part 1\03.OperatorsAndStatements\10.CheckBitAtPosition\bin\Debug\10.BitAtPosition.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.C# part 1\03.OperatorsAndStatements\10.CheckBitAtPosition\obj\Debug\10.BitAtPosition.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.C# part 1\03.OperatorsAndStatements\10.CheckBitAtPosition\obj\Debug\10.BitAtPosition.pdb

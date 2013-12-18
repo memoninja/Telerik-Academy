@@ -1,0 +1,17 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\IntroductionToProgrammingHomework\03.PrintYourName\bin\Debug\PrintYourName.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\IntroductionToProgrammingHomework\03.PrintYourName\bin\Debug\PrintYourName.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\IntroductionToProgrammingHomework\03.PrintYourName\bin\Debug\PrintYourName.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\IntroductionToProgrammingHomework\03.PrintYourName\obj\Debug\PrintYourName.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\IntroductionToProgrammingHomework\03.PrintYourName\obj\Debug\PrintYourName.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\1.IntroductionToProgrammingHomework\03.PrintYourName\bin\Debug\PrintYourName.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\1.IntroductionToProgrammingHomework\03.PrintYourName\obj\Debug\PrintYourName.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\1.IntroductionToProgrammingHomework\03.PrintYourName\obj\Debug\PrintYourName.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.IntroductionToProgrammingHomework\03.PrintYourName\bin\Debug\PrintYourName.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.IntroductionToProgrammingHomework\03.PrintYourName\obj\Debug\PrintYourName.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.IntroductionToProgrammingHomework\03.PrintYourName\obj\Debug\PrintYourName.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\1.IntroductionToProgrammingHomework\03.PrintYourName\bin\Debug\PrintYourName.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\1.IntroductionToProgrammingHomework\03.PrintYourName\obj\Debug\PrintYourName.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\1.IntroductionToProgrammingHomework\03.PrintYourName\obj\Debug\PrintYourName.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.C# part 1\01.IntroductionToProgrammingHomework\03.PrintYourName\bin\Debug\PrintYourName.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.C# part 1\01.IntroductionToProgrammingHomework\03.PrintYourName\obj\Debug\PrintYourName.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.C# part 1\01.IntroductionToProgrammingHomework\03.PrintYourName\obj\Debug\PrintYourName.pdb

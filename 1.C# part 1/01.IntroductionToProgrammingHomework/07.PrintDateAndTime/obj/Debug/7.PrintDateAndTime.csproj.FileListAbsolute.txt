@@ -1,0 +1,10 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\IntroductionToProgrammingHomework\7.PrintDateAndTime\bin\Debug\7.PrintDateAndTime.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\IntroductionToProgrammingHomework\7.PrintDateAndTime\bin\Debug\7.PrintDateAndTime.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\IntroductionToProgrammingHomework\7.PrintDateAndTime\bin\Debug\7.PrintDateAndTime.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\IntroductionToProgrammingHomework\7.PrintDateAndTime\obj\Debug\7.PrintDateAndTime.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\IntroductionToProgrammingHomework\7.PrintDateAndTime\obj\Debug\7.PrintDateAndTime.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\IntroductionToProgrammingHomework\07.PrintDateAndTime\bin\Debug\7.PrintDateAndTime.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\IntroductionToProgrammingHomework\07.PrintDateAndTime\obj\Debug\7.PrintDateAndTime.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\IntroductionToProgrammingHomework\07.PrintDateAndTime\obj\Debug\7.PrintDateAndTime.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\IntroductionToProgrammingHomework\07.PrintDateAndTime\bin\Debug\7.PrintDateAndTime.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\IntroductionToProgrammingHomework\07.PrintDateAndTime\bin\Debug\7.PrintDateAndTime.pdb

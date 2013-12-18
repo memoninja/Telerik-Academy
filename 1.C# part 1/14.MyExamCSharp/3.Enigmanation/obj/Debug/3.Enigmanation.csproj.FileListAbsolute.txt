@@ -1,0 +1,6 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\MyExamCSharp\3.Enigmanation\bin\Debug\3.Enigmanation.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\MyExamCSharp\3.Enigmanation\bin\Debug\3.Enigmanation.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\MyExamCSharp\3.Enigmanation\bin\Debug\3.Enigmanation.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\MyExamCSharp\3.Enigmanation\obj\Debug\3.Enigmanation.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\MyExamCSharp\3.Enigmanation\obj\Debug\3.Enigmanation.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\MyExamCSharp\3.Enigmanation\obj\Debug\3.Enigmanation.csprojResolveAssemblyReference.cache

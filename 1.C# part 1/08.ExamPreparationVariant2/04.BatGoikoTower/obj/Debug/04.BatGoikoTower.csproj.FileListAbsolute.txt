@@ -1,0 +1,6 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\8.ExamPreparationVariant2\04.BatGoikoTower\bin\Debug\04.BatGoikoTower.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\8.ExamPreparationVariant2\04.BatGoikoTower\bin\Debug\04.BatGoikoTower.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\8.ExamPreparationVariant2\04.BatGoikoTower\bin\Debug\04.BatGoikoTower.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\8.ExamPreparationVariant2\04.BatGoikoTower\obj\Debug\04.BatGoikoTower.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\8.ExamPreparationVariant2\04.BatGoikoTower\obj\Debug\04.BatGoikoTower.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\8.ExamPreparationVariant2\04.BatGoikoTower\obj\Debug\04.BatGoikoTower.pdb

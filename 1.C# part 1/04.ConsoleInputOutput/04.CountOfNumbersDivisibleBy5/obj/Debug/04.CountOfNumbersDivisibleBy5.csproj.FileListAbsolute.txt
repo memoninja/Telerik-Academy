@@ -1,0 +1,6 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\4.ConsoleInputOutput\04.CountOfNumbersDivisibleBy5\bin\Debug\04.CountOfNumbersDivisibleBy5.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\4.ConsoleInputOutput\04.CountOfNumbersDivisibleBy5\bin\Debug\04.CountOfNumbersDivisibleBy5.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\4.ConsoleInputOutput\04.CountOfNumbersDivisibleBy5\bin\Debug\04.CountOfNumbersDivisibleBy5.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\4.ConsoleInputOutput\04.CountOfNumbersDivisibleBy5\obj\Debug\04.CountOfNumbersDivisibleBy5.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\4.ConsoleInputOutput\04.CountOfNumbersDivisibleBy5\obj\Debug\04.CountOfNumbersDivisibleBy5.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\4.ConsoleInputOutput\04.CountOfNumbersDivisibleBy5\obj\Debug\04.CountOfNumbersDivisibleBy5.pdb

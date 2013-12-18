@@ -1,0 +1,9 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\3.OperatorsAndStatements\14.ExchangeSequenceOfBitsWithAnotherOne\bin\Debug\14.ExchangeSequenceOfBitsWithAnotherOne.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\3.OperatorsAndStatements\14.ExchangeSequenceOfBitsWithAnotherOne\bin\Debug\14.ExchangeSequenceOfBitsWithAnotherOne.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\3.OperatorsAndStatements\14.ExchangeSequenceOfBitsWithAnotherOne\bin\Debug\14.ExchangeSequenceOfBitsWithAnotherOne.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\3.OperatorsAndStatements\14.ExchangeSequenceOfBitsWithAnotherOne\obj\Debug\14.ExchangeSequenceOfBitsWithAnotherOne.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\3.OperatorsAndStatements\14.ExchangeSequenceOfBitsWithAnotherOne\obj\Debug\14.ExchangeSequenceOfBitsWithAnotherOne.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\3.OperatorsAndStatements\14.ExchangeSequenceOfBitsWithAnotherOne\obj\Debug\14.ExchangeSequenceOfBitsWithAnotherOne.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.C# part 1\03.OperatorsAndStatements\14.ExchangeSequenceOfBitsWithAnotherOne\bin\Debug\14.ExchangeSequenceOfBitsWithAnotherOne.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.C# part 1\03.OperatorsAndStatements\14.ExchangeSequenceOfBitsWithAnotherOne\obj\Debug\14.ExchangeSequenceOfBitsWithAnotherOne.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\1.C# part 1\03.OperatorsAndStatements\14.ExchangeSequenceOfBitsWithAnotherOne\obj\Debug\14.ExchangeSequenceOfBitsWithAnotherOne.pdb

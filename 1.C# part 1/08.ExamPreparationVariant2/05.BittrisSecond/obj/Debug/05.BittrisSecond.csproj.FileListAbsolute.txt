@@ -1,0 +1,6 @@
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\8.ExamPreparationVariant2\05.BittrisSecond\bin\Debug\05.BittrisSecond.exe.config
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\8.ExamPreparationVariant2\05.BittrisSecond\bin\Debug\05.BittrisSecond.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\8.ExamPreparationVariant2\05.BittrisSecond\bin\Debug\05.BittrisSecond.pdb
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\8.ExamPreparationVariant2\05.BittrisSecond\obj\Debug\05.BittrisSecond.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\8.ExamPreparationVariant2\05.BittrisSecond\obj\Debug\05.BittrisSecond.exe
+C:\Users\Todor\Documents\Visual Studio 2012\Projects\Homework\C# part 1\8.ExamPreparationVariant2\05.BittrisSecond\obj\Debug\05.BittrisSecond.pdb
