@@ -1,0 +1,6 @@
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\03.Methods\04.CountOfGivenNumberInArray\bin\Debug\04.CountOfGivenNumberInArray.exe.config
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\03.Methods\04.CountOfGivenNumberInArray\bin\Debug\04.CountOfGivenNumberInArray.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\03.Methods\04.CountOfGivenNumberInArray\bin\Debug\04.CountOfGivenNumberInArray.pdb
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\03.Methods\04.CountOfGivenNumberInArray\obj\Debug\04.CountOfGivenNumberInArray.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\03.Methods\04.CountOfGivenNumberInArray\obj\Debug\04.CountOfGivenNumberInArray.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\03.Methods\04.CountOfGivenNumberInArray\obj\Debug\04.CountOfGivenNumberInArray.pdb

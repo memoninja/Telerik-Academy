@@ -1,0 +1,6 @@
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\03.Methods\08.AddTwoIntegersRepresentedAsArrays\bin\Debug\08.AddTwoIntegersRepresentedAsArrays.exe.config
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\03.Methods\08.AddTwoIntegersRepresentedAsArrays\bin\Debug\08.AddTwoIntegersRepresentedAsArrays.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\03.Methods\08.AddTwoIntegersRepresentedAsArrays\bin\Debug\08.AddTwoIntegersRepresentedAsArrays.pdb
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\03.Methods\08.AddTwoIntegersRepresentedAsArrays\obj\Debug\08.AddTwoIntegersRepresentedAsArrays.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\03.Methods\08.AddTwoIntegersRepresentedAsArrays\obj\Debug\08.AddTwoIntegersRepresentedAsArrays.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\03.Methods\08.AddTwoIntegersRepresentedAsArrays\obj\Debug\08.AddTwoIntegersRepresentedAsArrays.pdb

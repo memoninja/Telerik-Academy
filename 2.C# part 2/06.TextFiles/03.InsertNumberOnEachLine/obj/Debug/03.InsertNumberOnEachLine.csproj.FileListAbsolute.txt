@@ -1,0 +1,6 @@
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\06.TextFiles\03.InsertNumberOnEachLine\bin\Debug\03.InsertNumberOnEachLine.exe.config
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\06.TextFiles\03.InsertNumberOnEachLine\bin\Debug\03.InsertNumberOnEachLine.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\06.TextFiles\03.InsertNumberOnEachLine\bin\Debug\03.InsertNumberOnEachLine.pdb
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\06.TextFiles\03.InsertNumberOnEachLine\obj\Debug\03.InsertNumberOnEachLine.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\06.TextFiles\03.InsertNumberOnEachLine\obj\Debug\03.InsertNumberOnEachLine.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\06.TextFiles\03.InsertNumberOnEachLine\obj\Debug\03.InsertNumberOnEachLine.pdb

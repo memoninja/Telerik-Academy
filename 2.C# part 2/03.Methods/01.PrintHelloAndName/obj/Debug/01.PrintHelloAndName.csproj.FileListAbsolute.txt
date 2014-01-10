@@ -1,0 +1,12 @@
+c:\users\todor\documents\visual studio 2013\Projects\03.Methods\01.PrintHelloAndName\bin\Debug\01.PrintHelloAndName.exe.config
+C:\Users\Todor\documents\visual studio 2013\Projects\03.Methods\01.PrintHelloAndName\obj\Debug\01.PrintHelloAndName.csprojResolveAssemblyReference.cache
+C:\Users\Todor\documents\visual studio 2013\Projects\03.Methods\01.PrintHelloAndName\bin\Debug\01.PrintHelloAndName.exe
+C:\Users\Todor\documents\visual studio 2013\Projects\03.Methods\01.PrintHelloAndName\bin\Debug\01.PrintHelloAndName.pdb
+C:\Users\Todor\documents\visual studio 2013\Projects\03.Methods\01.PrintHelloAndName\obj\Debug\01.PrintHelloAndName.exe
+C:\Users\Todor\documents\visual studio 2013\Projects\03.Methods\01.PrintHelloAndName\obj\Debug\01.PrintHelloAndName.pdb
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\03.Methods\01.PrintHelloAndName\bin\Debug\01.PrintHelloAndName.exe.config
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\03.Methods\01.PrintHelloAndName\obj\Debug\01.PrintHelloAndName.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\03.Methods\01.PrintHelloAndName\obj\Debug\01.PrintHelloAndName.pdb
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\03.Methods\01.PrintHelloAndName\bin\Debug\01.PrintHelloAndName.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\03.Methods\01.PrintHelloAndName\bin\Debug\01.PrintHelloAndName.pdb
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\03.Methods\01.PrintHelloAndName\obj\Debug\01.PrintHelloAndName.csprojResolveAssemblyReference.cache

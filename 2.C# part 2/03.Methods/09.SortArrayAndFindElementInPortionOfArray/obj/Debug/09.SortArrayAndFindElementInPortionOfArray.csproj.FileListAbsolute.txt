@@ -1,0 +1,6 @@
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\03.Methods\09.SortArrayAndFindElementInPortionOfArray\bin\Debug\09.SortArrayAndFindElementInPortionOfArray.exe.config
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\03.Methods\09.SortArrayAndFindElementInPortionOfArray\bin\Debug\09.SortArrayAndFindElementInPortionOfArray.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\03.Methods\09.SortArrayAndFindElementInPortionOfArray\bin\Debug\09.SortArrayAndFindElementInPortionOfArray.pdb
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\03.Methods\09.SortArrayAndFindElementInPortionOfArray\obj\Debug\09.SortArrayAndFindElementInPortionOfArray.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\03.Methods\09.SortArrayAndFindElementInPortionOfArray\obj\Debug\09.SortArrayAndFindElementInPortionOfArray.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\03.Methods\09.SortArrayAndFindElementInPortionOfArray\obj\Debug\09.SortArrayAndFindElementInPortionOfArray.pdb

@@ -1,0 +1,6 @@
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\04.NumeralSystems\06.ConvertBinaryToHexadecimal\bin\Debug\06.ConvertBinaryToHexadecimal.exe.config
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\04.NumeralSystems\06.ConvertBinaryToHexadecimal\bin\Debug\06.ConvertBinaryToHexadecimal.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\04.NumeralSystems\06.ConvertBinaryToHexadecimal\bin\Debug\06.ConvertBinaryToHexadecimal.pdb
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\04.NumeralSystems\06.ConvertBinaryToHexadecimal\obj\Debug\06.ConvertBinaryToHexadecimal.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\04.NumeralSystems\06.ConvertBinaryToHexadecimal\obj\Debug\06.ConvertBinaryToHexadecimal.pdb
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\04.NumeralSystems\06.ConvertBinaryToHexadecimal\obj\Debug\06.ConvertBinaryToHexadecimal.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\06.TextFiles\04.CompareTwoFilesByLines\bin\Debug\04.CompareTwoFilesByLines.exe.config
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\06.TextFiles\04.CompareTwoFilesByLines\bin\Debug\04.CompareTwoFilesByLines.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\06.TextFiles\04.CompareTwoFilesByLines\bin\Debug\04.CompareTwoFilesByLines.pdb
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\06.TextFiles\04.CompareTwoFilesByLines\obj\Debug\04.CompareTwoFilesByLines.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\06.TextFiles\04.CompareTwoFilesByLines\obj\Debug\04.CompareTwoFilesByLines.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\06.TextFiles\04.CompareTwoFilesByLines\obj\Debug\04.CompareTwoFilesByLines.pdb

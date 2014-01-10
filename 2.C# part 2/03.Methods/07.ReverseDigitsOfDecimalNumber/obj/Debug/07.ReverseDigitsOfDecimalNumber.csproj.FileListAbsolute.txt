@@ -1,0 +1,6 @@
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\03.Methods\07.ReverseDigitsOfDecimalNumber\bin\Debug\07.ReverseDigitsOfDecimalNumber.exe.config
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\03.Methods\07.ReverseDigitsOfDecimalNumber\bin\Debug\07.ReverseDigitsOfDecimalNumber.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\03.Methods\07.ReverseDigitsOfDecimalNumber\bin\Debug\07.ReverseDigitsOfDecimalNumber.pdb
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\03.Methods\07.ReverseDigitsOfDecimalNumber\obj\Debug\07.ReverseDigitsOfDecimalNumber.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\03.Methods\07.ReverseDigitsOfDecimalNumber\obj\Debug\07.ReverseDigitsOfDecimalNumber.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\03.Methods\07.ReverseDigitsOfDecimalNumber\obj\Debug\07.ReverseDigitsOfDecimalNumber.pdb

@@ -1,0 +1,6 @@
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\03.Methods\06.FirtElementGreatherThanItsNeighbors\bin\Debug\06.FirtElementGreatherThanItsNeighbors.exe.config
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\03.Methods\06.FirtElementGreatherThanItsNeighbors\bin\Debug\06.FirtElementGreatherThanItsNeighbors.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\03.Methods\06.FirtElementGreatherThanItsNeighbors\bin\Debug\06.FirtElementGreatherThanItsNeighbors.pdb
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\03.Methods\06.FirtElementGreatherThanItsNeighbors\obj\Debug\06.FirtElementGreatherThanItsNeighbors.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\03.Methods\06.FirtElementGreatherThanItsNeighbors\obj\Debug\06.FirtElementGreatherThanItsNeighbors.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\03.Methods\06.FirtElementGreatherThanItsNeighbors\obj\Debug\06.FirtElementGreatherThanItsNeighbors.pdb

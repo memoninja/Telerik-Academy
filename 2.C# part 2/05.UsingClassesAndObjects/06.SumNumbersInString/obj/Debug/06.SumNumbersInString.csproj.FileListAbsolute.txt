@@ -1,0 +1,6 @@
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\05.UsingClassesAndObjects\06.SumNumbersInString\bin\Debug\06.SumNumbersInString.exe.config
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\05.UsingClassesAndObjects\06.SumNumbersInString\bin\Debug\06.SumNumbersInString.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\05.UsingClassesAndObjects\06.SumNumbersInString\bin\Debug\06.SumNumbersInString.pdb
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\05.UsingClassesAndObjects\06.SumNumbersInString\obj\Debug\06.SumNumbersInString.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\05.UsingClassesAndObjects\06.SumNumbersInString\obj\Debug\06.SumNumbersInString.pdb
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\05.UsingClassesAndObjects\06.SumNumbersInString\obj\Debug\06.SumNumbersInString.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\04.NumeralSystems\04.ConvertHexadecimalToDecimal\bin\Debug\04.ConvertHexadecimalToDecimal.exe.config
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\04.NumeralSystems\04.ConvertHexadecimalToDecimal\bin\Debug\04.ConvertHexadecimalToDecimal.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\04.NumeralSystems\04.ConvertHexadecimalToDecimal\bin\Debug\04.ConvertHexadecimalToDecimal.pdb
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\04.NumeralSystems\04.ConvertHexadecimalToDecimal\obj\Debug\04.ConvertHexadecimalToDecimal.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\04.NumeralSystems\04.ConvertHexadecimalToDecimal\obj\Debug\04.ConvertHexadecimalToDecimal.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\04.NumeralSystems\04.ConvertHexadecimalToDecimal\obj\Debug\04.ConvertHexadecimalToDecimal.pdb

@@ -1,0 +1,6 @@
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\04.NumeralSystems\08.SignedShortToBinary\bin\Debug\08.SignedShortToBinary.exe.config
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\04.NumeralSystems\08.SignedShortToBinary\bin\Debug\08.SignedShortToBinary.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\04.NumeralSystems\08.SignedShortToBinary\bin\Debug\08.SignedShortToBinary.pdb
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\04.NumeralSystems\08.SignedShortToBinary\obj\Debug\08.SignedShortToBinary.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\04.NumeralSystems\08.SignedShortToBinary\obj\Debug\08.SignedShortToBinary.pdb
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\04.NumeralSystems\08.SignedShortToBinary\obj\Debug\08.SignedShortToBinary.csprojResolveAssemblyReference.cache

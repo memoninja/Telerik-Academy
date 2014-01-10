@@ -1,0 +1,6 @@
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\06.ExceptionHandling\02.ReadNumberInRange\bin\Debug\02.ReadNumberInRange.exe.config
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\06.ExceptionHandling\02.ReadNumberInRange\bin\Debug\02.ReadNumberInRange.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\06.ExceptionHandling\02.ReadNumberInRange\bin\Debug\02.ReadNumberInRange.pdb
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\06.ExceptionHandling\02.ReadNumberInRange\obj\Debug\02.ReadNumberInRange.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\06.ExceptionHandling\02.ReadNumberInRange\obj\Debug\02.ReadNumberInRange.pdb
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\06.ExceptionHandling\02.ReadNumberInRange\obj\Debug\02.ReadNumberInRange.csprojResolveAssemblyReference.cache

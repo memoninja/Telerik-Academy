@@ -1,0 +1,6 @@
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\04.NumeralSystems\01.ConvertDecimalToBinary\bin\Debug\01.ConvertDecimalToBinary.exe.config
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\04.NumeralSystems\01.ConvertDecimalToBinary\bin\Debug\01.ConvertDecimalToBinary.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\04.NumeralSystems\01.ConvertDecimalToBinary\bin\Debug\01.ConvertDecimalToBinary.pdb
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\04.NumeralSystems\01.ConvertDecimalToBinary\obj\Debug\01.ConvertDecimalToBinary.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\04.NumeralSystems\01.ConvertDecimalToBinary\obj\Debug\01.ConvertDecimalToBinary.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\04.NumeralSystems\01.ConvertDecimalToBinary\obj\Debug\01.ConvertDecimalToBinary.pdb

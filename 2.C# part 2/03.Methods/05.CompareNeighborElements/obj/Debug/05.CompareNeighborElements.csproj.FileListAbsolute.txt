@@ -1,0 +1,6 @@
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\03.Methods\05.CompareNeighborElements\bin\Debug\05.CompareNeighborElements.exe.config
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\03.Methods\05.CompareNeighborElements\bin\Debug\05.CompareNeighborElements.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\03.Methods\05.CompareNeighborElements\bin\Debug\05.CompareNeighborElements.pdb
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\03.Methods\05.CompareNeighborElements\obj\Debug\05.CompareNeighborElements.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\03.Methods\05.CompareNeighborElements\obj\Debug\05.CompareNeighborElements.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\03.Methods\05.CompareNeighborElements\obj\Debug\05.CompareNeighborElements.pdb

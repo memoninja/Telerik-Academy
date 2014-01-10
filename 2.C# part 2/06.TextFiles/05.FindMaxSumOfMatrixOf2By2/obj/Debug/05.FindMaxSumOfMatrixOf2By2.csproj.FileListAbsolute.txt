@@ -1,0 +1,6 @@
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\06.TextFiles\05.FindMaxSumOfMatrixOf2By2\bin\Debug\05.FindMaxSumOfMatrixOf2By2.exe.config
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\06.TextFiles\05.FindMaxSumOfMatrixOf2By2\bin\Debug\05.FindMaxSumOfMatrixOf2By2.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\06.TextFiles\05.FindMaxSumOfMatrixOf2By2\bin\Debug\05.FindMaxSumOfMatrixOf2By2.pdb
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\06.TextFiles\05.FindMaxSumOfMatrixOf2By2\obj\Debug\05.FindMaxSumOfMatrixOf2By2.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\06.TextFiles\05.FindMaxSumOfMatrixOf2By2\obj\Debug\05.FindMaxSumOfMatrixOf2By2.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\06.TextFiles\05.FindMaxSumOfMatrixOf2By2\obj\Debug\05.FindMaxSumOfMatrixOf2By2.pdb

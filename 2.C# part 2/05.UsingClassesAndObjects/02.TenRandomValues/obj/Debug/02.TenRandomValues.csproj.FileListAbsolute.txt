@@ -1,0 +1,5 @@
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\05.UsingClassesAndObjects\02.TenRandomValues\bin\Debug\02.TenRandomValues.exe.config
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\05.UsingClassesAndObjects\02.TenRandomValues\bin\Debug\02.TenRandomValues.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\05.UsingClassesAndObjects\02.TenRandomValues\bin\Debug\02.TenRandomValues.pdb
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\05.UsingClassesAndObjects\02.TenRandomValues\obj\Debug\02.TenRandomValues.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\05.UsingClassesAndObjects\02.TenRandomValues\obj\Debug\02.TenRandomValues.pdb

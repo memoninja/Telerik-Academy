@@ -1,0 +1,6 @@
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\03.Methods\13.MultiTaskProgram\bin\Debug\13.MultiTaskProgram.exe.config
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\03.Methods\13.MultiTaskProgram\bin\Debug\13.MultiTaskProgram.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\03.Methods\13.MultiTaskProgram\bin\Debug\13.MultiTaskProgram.pdb
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\03.Methods\13.MultiTaskProgram\obj\Debug\13.MultiTaskProgram.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\03.Methods\13.MultiTaskProgram\obj\Debug\13.MultiTaskProgram.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\03.Methods\13.MultiTaskProgram\obj\Debug\13.MultiTaskProgram.pdb

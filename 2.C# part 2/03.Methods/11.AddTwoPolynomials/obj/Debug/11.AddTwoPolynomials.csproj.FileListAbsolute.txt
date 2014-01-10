@@ -1,0 +1,6 @@
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\03.Methods\11.AddTwoPolynomials\bin\Debug\11.AddTwoPolynomials.exe.config
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\03.Methods\11.AddTwoPolynomials\bin\Debug\11.AddTwoPolynomials.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\03.Methods\11.AddTwoPolynomials\bin\Debug\11.AddTwoPolynomials.pdb
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\03.Methods\11.AddTwoPolynomials\obj\Debug\11.AddTwoPolynomials.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\03.Methods\11.AddTwoPolynomials\obj\Debug\11.AddTwoPolynomials.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\03.Methods\11.AddTwoPolynomials\obj\Debug\11.AddTwoPolynomials.pdb

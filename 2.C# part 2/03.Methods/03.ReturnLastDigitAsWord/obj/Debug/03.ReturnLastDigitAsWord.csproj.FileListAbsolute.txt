@@ -1,0 +1,6 @@
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\03.Methods\03.ReturnLastDigitAsWord\bin\Debug\03.ReturnLastDigitAsWord.exe.config
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\03.Methods\03.ReturnLastDigitAsWord\bin\Debug\03.ReturnLastDigitAsWord.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\03.Methods\03.ReturnLastDigitAsWord\bin\Debug\03.ReturnLastDigitAsWord.pdb
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\03.Methods\03.ReturnLastDigitAsWord\obj\Debug\03.ReturnLastDigitAsWord.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\03.Methods\03.ReturnLastDigitAsWord\obj\Debug\03.ReturnLastDigitAsWord.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\03.Methods\03.ReturnLastDigitAsWord\obj\Debug\03.ReturnLastDigitAsWord.pdb

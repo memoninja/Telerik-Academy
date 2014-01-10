@@ -1,0 +1,6 @@
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\05.UsingClassesAndObjects\05.CalculateWorkdays\bin\Debug\05.CalculateWorkdays.exe.config
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\05.UsingClassesAndObjects\05.CalculateWorkdays\bin\Debug\05.CalculateWorkdays.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\05.UsingClassesAndObjects\05.CalculateWorkdays\bin\Debug\05.CalculateWorkdays.pdb
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\05.UsingClassesAndObjects\05.CalculateWorkdays\obj\Debug\05.CalculateWorkdays.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\05.UsingClassesAndObjects\05.CalculateWorkdays\obj\Debug\05.CalculateWorkdays.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\05.UsingClassesAndObjects\05.CalculateWorkdays\obj\Debug\05.CalculateWorkdays.pdb

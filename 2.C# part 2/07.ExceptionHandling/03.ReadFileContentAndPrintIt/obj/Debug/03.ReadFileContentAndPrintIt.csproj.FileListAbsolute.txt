@@ -1,0 +1,6 @@
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\06.ExceptionHandling\03.ReadFileContentAndPrintIt\bin\Debug\03.ReadFileContentAndPrintIt.exe.config
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\06.ExceptionHandling\03.ReadFileContentAndPrintIt\bin\Debug\03.ReadFileContentAndPrintIt.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\06.ExceptionHandling\03.ReadFileContentAndPrintIt\bin\Debug\03.ReadFileContentAndPrintIt.pdb
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\06.ExceptionHandling\03.ReadFileContentAndPrintIt\obj\Debug\03.ReadFileContentAndPrintIt.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\06.ExceptionHandling\03.ReadFileContentAndPrintIt\obj\Debug\03.ReadFileContentAndPrintIt.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\06.ExceptionHandling\03.ReadFileContentAndPrintIt\obj\Debug\03.ReadFileContentAndPrintIt.pdb

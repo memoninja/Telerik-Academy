@@ -1,0 +1,5 @@
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\03.Methods\02.GetMaxOfDifferentCountOfIntegers\bin\Debug\02.GetMaxOfDifferentCountOfIntegers.exe.config
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\03.Methods\02.GetMaxOfDifferentCountOfIntegers\bin\Debug\02.GetMaxOfDifferentCountOfIntegers.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\03.Methods\02.GetMaxOfDifferentCountOfIntegers\bin\Debug\02.GetMaxOfDifferentCountOfIntegers.pdb
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\03.Methods\02.GetMaxOfDifferentCountOfIntegers\obj\Debug\02.GetMaxOfDifferentCountOfIntegers.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\03.Methods\02.GetMaxOfDifferentCountOfIntegers\obj\Debug\02.GetMaxOfDifferentCountOfIntegers.pdb

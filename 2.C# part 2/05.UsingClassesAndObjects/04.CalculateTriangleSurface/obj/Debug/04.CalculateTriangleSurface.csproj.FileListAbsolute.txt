@@ -1,0 +1,6 @@
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\05.UsingClassesAndObjects\04.CalculateTriangleSurface\bin\Debug\04.CalculateTriangleSurface.exe.config
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\05.UsingClassesAndObjects\04.CalculateTriangleSurface\bin\Debug\04.CalculateTriangleSurface.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\05.UsingClassesAndObjects\04.CalculateTriangleSurface\bin\Debug\04.CalculateTriangleSurface.pdb
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\05.UsingClassesAndObjects\04.CalculateTriangleSurface\obj\Debug\04.CalculateTriangleSurface.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\05.UsingClassesAndObjects\04.CalculateTriangleSurface\obj\Debug\04.CalculateTriangleSurface.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\05.UsingClassesAndObjects\04.CalculateTriangleSurface\obj\Debug\04.CalculateTriangleSurface.pdb

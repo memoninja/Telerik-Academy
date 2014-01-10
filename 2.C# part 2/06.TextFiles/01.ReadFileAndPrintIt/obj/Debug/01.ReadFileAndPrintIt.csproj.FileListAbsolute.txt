@@ -1,0 +1,6 @@
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\06.TextFiles\01.ReadFileAndPrintIt\bin\Debug\01.ReadFileAndPrintIt.exe.config
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\06.TextFiles\01.ReadFileAndPrintIt\bin\Debug\01.ReadFileAndPrintIt.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\06.TextFiles\01.ReadFileAndPrintIt\bin\Debug\01.ReadFileAndPrintIt.pdb
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\06.TextFiles\01.ReadFileAndPrintIt\obj\Debug\01.ReadFileAndPrintIt.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\06.TextFiles\01.ReadFileAndPrintIt\obj\Debug\01.ReadFileAndPrintIt.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\06.TextFiles\01.ReadFileAndPrintIt\obj\Debug\01.ReadFileAndPrintIt.pdb

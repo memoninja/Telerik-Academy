@@ -1,0 +1,6 @@
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\03.Methods\14.CalculateMinMaxAverageSumAndProduct\bin\Debug\14.CalculateMinMaxAverageSumAndProduct.exe.config
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\03.Methods\14.CalculateMinMaxAverageSumAndProduct\bin\Debug\14.CalculateMinMaxAverageSumAndProduct.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\03.Methods\14.CalculateMinMaxAverageSumAndProduct\bin\Debug\14.CalculateMinMaxAverageSumAndProduct.pdb
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\03.Methods\14.CalculateMinMaxAverageSumAndProduct\obj\Debug\14.CalculateMinMaxAverageSumAndProduct.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\03.Methods\14.CalculateMinMaxAverageSumAndProduct\obj\Debug\14.CalculateMinMaxAverageSumAndProduct.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\2.C# part 2\03.Methods\14.CalculateMinMaxAverageSumAndProduct\obj\Debug\14.CalculateMinMaxAverageSumAndProduct.pdb
