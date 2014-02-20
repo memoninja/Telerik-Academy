@@ -1,0 +1,6 @@
+E:\Telerik Academy\2.C#\4. C# OOP\4.Exam preparation\SampleExam, Doc Sys and Geom API\AcademyGeometry-Skeleton\AcademyGeometry\AcademyGeometry\bin\Debug\AcademyGeometry.exe.config
+E:\Telerik Academy\2.C#\4. C# OOP\4.Exam preparation\SampleExam, Doc Sys and Geom API\AcademyGeometry-Skeleton\AcademyGeometry\AcademyGeometry\obj\Debug\AcademyGeometry.csprojResolveAssemblyReference.cache
+E:\Telerik Academy\2.C#\4. C# OOP\4.Exam preparation\SampleExam, Doc Sys and Geom API\AcademyGeometry-Skeleton\AcademyGeometry\AcademyGeometry\bin\Debug\AcademyGeometry.exe
+E:\Telerik Academy\2.C#\4. C# OOP\4.Exam preparation\SampleExam, Doc Sys and Geom API\AcademyGeometry-Skeleton\AcademyGeometry\AcademyGeometry\bin\Debug\AcademyGeometry.pdb
+E:\Telerik Academy\2.C#\4. C# OOP\4.Exam preparation\SampleExam, Doc Sys and Geom API\AcademyGeometry-Skeleton\AcademyGeometry\AcademyGeometry\obj\Debug\AcademyGeometry.exe
+E:\Telerik Academy\2.C#\4. C# OOP\4.Exam preparation\SampleExam, Doc Sys and Geom API\AcademyGeometry-Skeleton\AcademyGeometry\AcademyGeometry\obj\Debug\AcademyGeometry.pdb

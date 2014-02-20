@@ -1,0 +1,6 @@
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\3.C# OOP\2.DefiningClassesPart2\ExercisesTests\obj\Debug\01.AllExercises.csprojResolveAssemblyReference.cache
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\3.C# OOP\2.DefiningClassesPart2\ExercisesTests\bin\Debug\01.StructurePoint3D.exe.config
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\3.C# OOP\2.DefiningClassesPart2\ExercisesTests\bin\Debug\01.StructurePoint3D.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\3.C# OOP\2.DefiningClassesPart2\ExercisesTests\bin\Debug\01.StructurePoint3D.pdb
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\3.C# OOP\2.DefiningClassesPart2\ExercisesTests\obj\Debug\01.StructurePoint3D.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\3.C# OOP\2.DefiningClassesPart2\ExercisesTests\obj\Debug\01.StructurePoint3D.pdb

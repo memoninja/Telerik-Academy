@@ -1,0 +1,5 @@
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\3.C# OOP\2.DefiningClassesPart2\VersionExercise\bin\Debug\VersionExercise.exe.config
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\3.C# OOP\2.DefiningClassesPart2\VersionExercise\bin\Debug\VersionExercise.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\3.C# OOP\2.DefiningClassesPart2\VersionExercise\bin\Debug\VersionExercise.pdb
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\3.C# OOP\2.DefiningClassesPart2\VersionExercise\obj\Debug\VersionExercise.exe
+C:\Users\Todor\Documents\Visual Studio 2013\Projects\CSharp Homework\3.C# OOP\2.DefiningClassesPart2\VersionExercise\obj\Debug\VersionExercise.pdb
