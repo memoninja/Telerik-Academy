@@ -1,0 +1,5 @@
+E:\Telerik Academy\2.C#\4. C# OOP\4.Exam preparation\OOP-Exam-March-2013-Variant-1\SoftwareAcademy-Skeleton\obj\Debug\SoftwareAcademy.csprojResolveAssemblyReference.cache
+E:\Telerik Academy\2.C#\4. C# OOP\4.Exam preparation\OOP-Exam-March-2013-Variant-1\SoftwareAcademy-Skeleton\bin\Debug\SoftwareAcademy.exe
+E:\Telerik Academy\2.C#\4. C# OOP\4.Exam preparation\OOP-Exam-March-2013-Variant-1\SoftwareAcademy-Skeleton\bin\Debug\SoftwareAcademy.pdb
+E:\Telerik Academy\2.C#\4. C# OOP\4.Exam preparation\OOP-Exam-March-2013-Variant-1\SoftwareAcademy-Skeleton\obj\Debug\SoftwareAcademy.exe
+E:\Telerik Academy\2.C#\4. C# OOP\4.Exam preparation\OOP-Exam-March-2013-Variant-1\SoftwareAcademy-Skeleton\obj\Debug\SoftwareAcademy.pdb
